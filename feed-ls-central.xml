@@ -14,7 +14,8 @@ permalink: /feed/ls-central.xml
     <title>{{ fix.title }}</title>
     <link>{{ site.url }}{{ fix.url }}</link>
     <pubDate>{{ fix.date | date_to_rfc822 }}</pubDate>
-    <description><![CDATA[{{ fix.content | strip_html }}]]></description>
+    <!-- <description><![CDATA[{{ fix.content | strip_html }}]]></description> -->
+    <description><![CDATA[{{ fix.content }}]]></description>
   </item>
   {% endfor %}
 </channel>
