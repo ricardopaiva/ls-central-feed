@@ -1,0 +1,9 @@
+---
+title: "System hotfixes - 26.1.2 System App, Release date July 1, 2025 - Hotfixes"
+product: System
+version: "26.1.2 System App"
+date: 2025-07-01 00:00:00+00:00
+---
+
+<strong>67601 Printer shows infinite "Opening drawer" when paper empty</strong>
+<ul><li><li>Details not available.</li></li></ul>

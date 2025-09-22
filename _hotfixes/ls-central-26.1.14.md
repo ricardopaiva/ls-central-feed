@@ -1,0 +1,11 @@
+---
+title: "LS Central hotfixes - 26.1.14,  Release date August 7, 2025 - Hotfixes"
+product: LS Central
+version: "26.1.14"
+date: 2025-08-07 00:00:00+00:00
+---
+
+<strong>69777 Overflow Error When Adding Items to Replen. Journal with Spanish Translation</strong>
+<ul><li><li>When adding items to the <b>Replen. Journal</b>, the system runs into an overflow error when Business Central is using Spanish Mexico translation. This was fixed.</li></li></ul>
+<strong>69108 Specific Pages do not work with Responsibility Center filter</strong>
+<ul><li><li>Filter multiple documents correctly with the user's Responsibility Center filter defined in user setup.</li></li></ul>
