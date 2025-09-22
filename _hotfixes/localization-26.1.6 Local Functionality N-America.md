@@ -6,4 +6,4 @@ date: 2025-09-09 00:00:00+00:00
 ---
 
 <strong>69271 LSC NA - fr-CA - V26 test - Wrong Translation in Z report</strong>
-<ul><li><li>Fixed an incorrect caption in fr-CA language.</li></li></ul>
+<ul><li>Fixed an incorrect caption in fr-CA language.</li></ul>

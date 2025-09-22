@@ -6,4 +6,4 @@ date: 2025-07-01 00:00:00+00:00
 ---
 
 <strong>68751 LSCDE-Statement post not trigger the fiskaly upload</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

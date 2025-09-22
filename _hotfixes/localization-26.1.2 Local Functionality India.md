@@ -6,4 +6,4 @@ date: 2025-07-15 00:00:00+00:00
 ---
 
 <strong>68793 LSC IN - GST Calculation Issue - Voided Item if item is same</strong>
-<ul><li><li>Voided the item line, it  recalculates the GST amount.</li></li></ul>
+<ul><li>Voided the item line, it  recalculates the GST amount.</li></ul>

@@ -6,4 +6,4 @@ date: 2025-08-19 00:00:00+00:00
 ---
 
 <strong>70173 IS insurance sender can be blank</strong>
-<ul><li><li>The Insurance Sender is used in communication with SÍ, regardless whether it is blank or has value.</li></li></ul>
+<ul><li>The Insurance Sender is used in communication with SÍ, regardless whether it is blank or has value.</li></ul>

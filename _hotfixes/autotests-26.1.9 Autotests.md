@@ -6,4 +6,4 @@ date: 2025-08-20 00:00:00+00:00
 ---
 
 <strong>70154 Customer Order Edit - Refund Returns an Error - Copy</strong>
-<ul><li><li>Fixed problem when multiple add and void lines on POS could result in error: <b>Customer Order cannot be Updated. Changes will be rolled back.</b></li></li></ul>
+<ul><li>Fixed problem when multiple add and void lines on POS could result in error: <b>Customer Order cannot be Updated. Changes will be rolled back.</b></li></ul>

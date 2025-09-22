@@ -6,4 +6,4 @@ date: 2025-07-15 00:00:00+00:00
 ---
 
 <strong>69222 Some cleanup for LSC-69172</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

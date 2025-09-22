@@ -6,4 +6,4 @@ date: 2025-07-22 00:00:00+00:00
 ---
 
 <strong>68652 Number Pad disappears on manual tips</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

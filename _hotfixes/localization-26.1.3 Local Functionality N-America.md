@@ -6,6 +6,6 @@ date: 2025-08-05 00:00:00+00:00
 ---
 
 <strong>69589 Weird amount triggered on CO Total (modify)</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>67683 LSC CA - Sales Header does not exist -POS</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

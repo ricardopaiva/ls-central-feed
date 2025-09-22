@@ -6,4 +6,4 @@ date: 2025-08-19 00:00:00+00:00
 ---
 
 <strong>69992 Focus does not go to POS after completing a purchase in a SaaS environment</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

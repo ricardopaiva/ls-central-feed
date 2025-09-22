@@ -6,5 +6,5 @@ date: 2025-07-15 00:00:00+00:00
 ---
 
 <strong>68562 Balance on POS not correct after doing refund on payment with deposits and charges</strong>
-<ul><li><li>The balance is now correct after doing a refund on a payment, that included deposit and charge (charged item that was originally paid on POS with deposit collection) and the error <b>No Deposit available to consume</b> does not show when the refunded amount is paid.</li></li>
-<li><li>An issue where the company deposit was not being inserted to the journal if the deposit collection was unassigned (folio no = 0) was fixed. Now it checks for it and inserts if available, then users can just void that line if they do not want to use the deposit.</li></li></ul>
+<ul><li>The balance is now correct after doing a refund on a payment, that included deposit and charge (charged item that was originally paid on POS with deposit collection) and the error <b>No Deposit available to consume</b> does not show when the refunded amount is paid.</li>
+<li>An issue where the company deposit was not being inserted to the journal if the deposit collection was unassigned (folio no = 0) was fixed. Now it checks for it and inserts if available, then users can just void that line if they do not want to use the deposit.</li></ul>

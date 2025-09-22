@@ -6,6 +6,6 @@ date: 2025-07-08 00:00:00+00:00
 ---
 
 <strong>68788 LSCNA - Handle Subtotal for POS Sales Slip</strong>
-<ul><li><li>Added new event, <b>OnBeforePrintSubTotalOnPrintPosSalesInfo</b>.</li></li></ul>
+<ul><li>Added new event, <b>OnBeforePrintSubTotalOnPrintPosSalesInfo</b>.</li></ul>
 <strong>68447 LSC NA Issue when collecting lines 1 by 1 then opening the posted customer order</strong>
-<ul><li><li>Fixed the errors when opening the Posted Customer Order.</li></li></ul>
+<ul><li>Fixed the errors when opening the Posted Customer Order.</li></ul>

@@ -6,4 +6,4 @@ date: 2025-08-05 00:00:00+00:00
 ---
 
 <strong>69704 CashPointClosings do not work in Germany's Fiskaly implementation</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

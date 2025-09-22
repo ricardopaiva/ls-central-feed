@@ -6,4 +6,4 @@ date: 2025-09-09 00:00:00+00:00
 ---
 
 <strong>70635 Pharmacy Dispensation: Prices do not include VAT in dispense production orders</strong>
-<ul><li><li>Calculated Price Incl. VAT in Dispense Production is based on the field <b>Price incl. VAT</b> in the PriceList line.</li></li></ul>
+<ul><li>Calculated Price Incl. VAT in Dispense Production is based on the field <b>Price incl. VAT</b> in the PriceList line.</li></ul>

@@ -6,6 +6,6 @@ date: 2025-09-09 00:00:00+00:00
 ---
 
 <strong>71523 Member Scheme Upgrade Skips a Level - Copy</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>69309 License manager setup error in French</strong>
-<ul><li><li>Increased variable size to handle translations that require more characters.</li></li></ul>
+<ul><li>Increased variable size to handle translations that require more characters.</li></ul>

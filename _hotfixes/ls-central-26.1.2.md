@@ -6,6 +6,6 @@ date: 2025-06-25 00:00:00+00:00
 ---
 
 <strong>68305 Negative stock in Table Inventory Lookup Pölder</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>68503 Activity Matrix – Activity List from availability slots</strong>
 <ul></ul>

@@ -6,4 +6,4 @@ date: 2025-08-26 00:00:00+00:00
 ---
 
 <strong>70331 'tender Operation' and 'FLOAT_ENT' handling - event missing a parameter</strong>
-<ul><li><li>A new parameter, <b>SafTenderDataTable</b> variable was added in existing event <b>OnBeforeInitMenuOnInitSafTenderPanel</b> in LSC Safe Denom. Panel Commands codeunit.</li></li></ul>
+<ul><li>A new parameter, <b>SafTenderDataTable</b> variable was added in existing event <b>OnBeforeInitMenuOnInitSafTenderPanel</b> in LSC Safe Denom. Panel Commands codeunit.</li></ul>

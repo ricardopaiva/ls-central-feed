@@ -6,4 +6,4 @@ date: 2025-07-15 00:00:00+00:00
 ---
 
 <strong>68962 Boolean selection issue on POS Panel</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

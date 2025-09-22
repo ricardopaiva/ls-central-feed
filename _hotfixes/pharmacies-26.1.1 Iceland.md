@@ -6,4 +6,4 @@ date: 2025-07-01 00:00:00+00:00
 ---
 
 <strong>67901 Pharmacy - Show remaining quantity in E-Prescription list</strong>
-<ul><li><li>New column showing remaining quantity was added to E-Prescription list.</li></li></ul>
+<ul><li>New column showing remaining quantity was added to E-Prescription list.</li></ul>

@@ -6,10 +6,10 @@ date: 2025-09-16 00:00:00+00:00
 ---
 
 <strong>71686 Incorrect posting when partially returning Customer Order</strong>
-<ul><li><li>Customer Order Edit: duplicate payment line was created when <b>Sales Order</b> was posted and a line had been voided and refunded on POS.</li></li></ul>
+<ul><li>Customer Order Edit: duplicate payment line was created when <b>Sales Order</b> was posted and a line had been voided and refunded on POS.</li></ul>
 <strong>71470 Decimal places issue in Inc/Exp Entries.</strong>
-<ul><li><li>Rounding of Net Amount was fixed on returns when canceling prepayments and returning with cash.</li></li></ul>
+<ul><li>Rounding of Net Amount was fixed on returns when canceling prepayments and returning with cash.</li></ul>
 <strong>71276 Event to skip ItemBaseUnitOfMeasureOnAfterValidateEvent - codeunit 10036991 "LSC Product Ext." implements "LSC IProductExt"</strong>
-<ul><li><li>New event, <b>OnBeforeItemBaseUnitOfMeasureOnAfterValidateEvent</b> was added to <b>LSC Product Ext.</b> codeunit.</li></li></ul>
+<ul><li>New event, <b>OnBeforeItemBaseUnitOfMeasureOnAfterValidateEvent</b> was added to <b>LSC Product Ext.</b> codeunit.</li></ul>
 <strong>70972 Changes in Subform Objects for Variant Frameworks</strong>
-<ul><li><li>Allowed global variables <b>gIsLSCentralPage</b> and <b>gIsShowLinesPage</b> to be changed outside the page extension, setting it as protected.</li></li></ul>
+<ul><li>Allowed global variables <b>gIsLSCentralPage</b> and <b>gIsShowLinesPage</b> to be changed outside the page extension, setting it as protected.</li></ul>

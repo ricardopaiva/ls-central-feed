@@ -6,4 +6,4 @@ date: 2025-09-16 00:00:00+00:00
 ---
 
 <strong>71694 Replace NoSeriesManagement with new BC Foundation No.Series app</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

@@ -6,8 +6,8 @@ date: 2025-08-06 00:00:00+00:00
 ---
 
 <strong>69757 EXTREMELY LONG DELAYS</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>69623 Post Statement Error after posting customer order to invoice</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>67683 LSC CA - Sales Header does not exist -POS</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

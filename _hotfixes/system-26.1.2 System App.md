@@ -6,4 +6,4 @@ date: 2025-07-01 00:00:00+00:00
 ---
 
 <strong>67601 Printer shows infinite "Opening drawer" when paper empty</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

@@ -6,6 +6,6 @@ date: 2025-07-22 00:00:00+00:00
 ---
 
 <strong>68999 Error while selecting Link to account</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>68813 POS Command SEARCHCONTACT doesn't work in new version</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

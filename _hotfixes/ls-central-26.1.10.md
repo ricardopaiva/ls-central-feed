@@ -6,6 +6,6 @@ date: 2025-07-24 00:00:00+00:00
 ---
 
 <strong>69562 Appsource validation error on 26.0 and 26.1</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>69430 Quantity error on serial required items</strong>
-<ul><li><li>Fixed issue where it is not possible to set -1 quantity to a item with a serial no.</li></li></ul>
+<ul><li>Fixed issue where it is not possible to set -1 quantity to a item with a serial no.</li></ul>

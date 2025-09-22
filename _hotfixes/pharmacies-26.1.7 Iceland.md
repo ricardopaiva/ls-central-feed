@@ -6,4 +6,4 @@ date: 2025-09-02 00:00:00+00:00
 ---
 
 <strong>68269 Posting in posting queue with CU 10015396</strong>
-<ul><li><li>Insurance Sender is <b>Blank</b> if it is not defined in Store Pharmacy Details. Posting from Posting Queue in Scheduled Job where Scheduler User is <b>not assigned</b> to a Pharmacy lead to reserved e-prescriptions, without a posted withdraw for posted Prescription Orders. This was fixed.</li></li></ul>
+<ul><li>Insurance Sender is <b>Blank</b> if it is not defined in Store Pharmacy Details. Posting from Posting Queue in Scheduled Job where Scheduler User is <b>not assigned</b> to a Pharmacy lead to reserved e-prescriptions, without a posted withdraw for posted Prescription Orders. This was fixed.</li></ul>

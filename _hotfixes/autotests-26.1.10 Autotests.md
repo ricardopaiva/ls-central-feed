@@ -6,6 +6,6 @@ date: 2025-08-26 00:00:00+00:00
 ---
 
 <strong>70369 Request user to enter search criteria on Member Contact panel</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>65635 Unexpected behavior with REORDQTY POS Command</strong>
-<ul><li><li>REORDERQTY and REORDERMENUTYPE commands were refactored to fix problems with quantity, line numbers and transaction entries of linked lines.</li></li></ul>
+<ul><li>REORDERQTY and REORDERMENUTYPE commands were refactored to fix problems with quantity, line numbers and transaction entries of linked lines.</li></ul>

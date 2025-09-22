@@ -6,4 +6,4 @@ date: 2025-08-19 00:00:00+00:00
 ---
 
 <strong>70020 Statement-Post together with LSC BE no longer assigns GLE fields "Journal Templ. Name" and "Journal Batch Name"</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

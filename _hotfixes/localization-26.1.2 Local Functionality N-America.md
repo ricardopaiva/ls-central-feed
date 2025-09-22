@@ -6,4 +6,4 @@ date: 2025-07-31 00:00:00+00:00
 ---
 
 <strong>69507 Double Tax on Receipt</strong>
-<ul><li><li>Printed one-time tax only in the prebill and split bill.</li></li></ul>
+<ul><li>Printed one-time tax only in the prebill and split bill.</li></ul>

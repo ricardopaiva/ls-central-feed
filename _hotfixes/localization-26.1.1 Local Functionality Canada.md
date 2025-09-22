@@ -6,4 +6,4 @@ date: 2025-09-17 00:00:00+00:00
 ---
 
 <strong>71752 Not able to split bill</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

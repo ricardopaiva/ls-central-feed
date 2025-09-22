@@ -6,8 +6,8 @@ date: 2025-08-29 00:00:00+00:00
 ---
 
 <strong>70592 Integration events for hotel</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>70231 Price for a line where paying for another reservation is not shown on Folio component in POS</strong>
-<ul><li><li>The folio lines now show the correct value for the item.</li></li></ul>
+<ul><li>The folio lines now show the correct value for the item.</li></ul>
 <strong>70116 When allocating a room that has different room type separate nights it allocates in Tape Chart wrong</strong>
-<ul><li><li>Hotel res entry page, opens up when the reservation is moved to manually set the room numbers if there are many room types.</li></li></ul>
+<ul><li>Hotel res entry page, opens up when the reservation is moved to manually set the room numbers if there are many room types.</li></ul>

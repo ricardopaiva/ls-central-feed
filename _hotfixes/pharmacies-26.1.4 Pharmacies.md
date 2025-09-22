@@ -6,8 +6,8 @@ date: 2025-08-26 00:00:00+00:00
 ---
 
 <strong>70320 Global Access to Selected Functions in Codeunit "LSC PH Item Management"</strong>
-<ul><li><li>Procedures exposed as public:<ul><li>ShowRelatedItemsByATC</li><li>ShowRelatedItemsBySubstance</li></ul></li></li>
-<li><li>ShowRelatedItemsByATC</li></li>
-<li><li>ShowRelatedItemsBySubstance</li></li></ul>
+<ul><li>Procedures exposed as public:<ul><li>ShowRelatedItemsByATC</li><li>ShowRelatedItemsBySubstance</li></ul></li>
+<li>ShowRelatedItemsByATC</li>
+<li>ShowRelatedItemsBySubstance</li></ul>
 <strong>70323 Global Access to Selected Functions in Codeunit "LSC PH Session"</strong>
-<ul><li><li>Procedures <b>GetLocationCode</b> is now public.</li></li></ul>
+<ul><li>Procedures <b>GetLocationCode</b> is now public.</li></ul>

@@ -6,5 +6,5 @@ date: 2025-08-26 00:00:00+00:00
 ---
 
 <strong>69704 CashPointClosings do not work in Germany's Fiskaly implementation</strong>
-<ul><li><li>Improved Cash Point Closing refresh processes.</li></li>
-<li><li>Fixed Business date source.</li></li></ul>
+<ul><li>Improved Cash Point Closing refresh processes.</li>
+<li>Fixed Business date source.</li></ul>

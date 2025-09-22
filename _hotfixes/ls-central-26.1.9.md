@@ -6,4 +6,4 @@ date: 2025-07-24 00:00:00+00:00
 ---
 
 <strong>69528 Appsource validation error on 25.3.20</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

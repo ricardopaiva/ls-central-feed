@@ -6,6 +6,6 @@ date: 2025-08-12 00:00:00+00:00
 ---
 
 <strong>69619 Change the UI menus and titles to match those of LS Central</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>
 <strong>69791 Fix compile errors on POSGUI and other LSC stuff</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

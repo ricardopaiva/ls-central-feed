@@ -6,4 +6,4 @@ date: 2025-08-26 00:00:00+00:00
 ---
 
 <strong>69929 LSC NA SendTransaction Web Service Not Working when not Local Request</strong>
-<ul><li><li>Details not available.</li></li></ul>
+<ul><li>Details not available.</li></ul>

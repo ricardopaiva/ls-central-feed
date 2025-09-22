@@ -6,4 +6,4 @@ date: 2025-07-08 00:00:00+00:00
 ---
 
 <strong>68328 PMS: Nationality report not showing correct data</strong>
-<ul><li><li>Fixed an issue where the guest list's country code was not updated correctly. This affected the Nationality Report.</li></li></ul>
+<ul><li>Fixed an issue where the guest list's country code was not updated correctly. This affected the Nationality Report.</li></ul>
