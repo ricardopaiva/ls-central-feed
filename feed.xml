@@ -7,9 +7,9 @@
     <atom:link href="https://example.com/hotfixes/rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 10:39:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 11:03:51 +0000</lastBuildDate>
     <item>
-      <title>eCommerce hotfixes - 26.1.0, Release date July 8, 2025</title>
+      <title>eCommerce hotfixes - 26.1.0, Release date July 8, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;66267 AL: Granted Discount in Shopify Orders is not captured during settlement of Click &amp; Collect transactions.&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
@@ -38,7 +38,7 @@
 &lt;li&gt;Added missing Sales Type Filter to &lt;b&gt;GetStoreBuffer&lt;/b&gt; Replication function&lt;/li&gt;
 &lt;li&gt;Fixed an issue with handling shipping line in Shopify order.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">ffb190f5331c8b0e7fe321ed3255a85b1fd6e0bf</guid>
+      <guid isPermaLink="false">968664264874c511c2d45879d5475053cc73909c</guid>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -82,15 +82,15 @@
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.1 Iceland, Release date July 1, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.1 Iceland, Release date July 1, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;67901 Pharmacy - Show remaining quantity in E-Prescription list&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;New column showing remaining quantity was added to E-Prescription list.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">bcce4ae2a4ccab2cc2dfa2bb02aad8ca6a2bbc0e</guid>
+      <guid isPermaLink="false">4e5347ca43637df9ae10fa8e7ec38d35826f4d69</guid>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.1 Pharmacies, Release date July 15, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.1 Pharmacies, Release date July 15, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;67397 LS Central for pharmacies: Make procedures global&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Procedure &lt;b&gt;InsertDelegateEntry&lt;/b&gt; is visible to extensions.&lt;/li&gt;&lt;/ul&gt;
@@ -196,41 +196,41 @@
 &lt;li&gt;Procedure &lt;b&gt;CreatePHDocumentFromCO&lt;/b&gt; in table 10015455 &lt;b&gt;LSC PH Omni PH-Document&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt;Procedure &lt;b&gt;CreatePHDocumentLine&lt;/b&gt; in  table 10015456 &lt;b&gt;LSC PH Omni PH-Document Line&lt;/b&gt;&lt;/li&gt;
 &lt;li&gt;Function &lt;b&gt;PharmacyCustomerOrderCreatePHDoc&lt;/b&gt; was exposed.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">56528eff6df255fe442fda7174e13b1730e37d39</guid>
+      <guid isPermaLink="false">d52e512abe1cbaa089336c20a8170640b2732b4f</guid>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.2 Iceland, Release date July 15, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.2 Iceland, Release date July 15, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;67404 Changes to function OnCalcInsuranceforOmniPresc in codeunit 10037814 "LSC PHIS Insurance Management&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Code in Subscriber exposed as a separate function and event added to enable change of active store.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">c34169097356b4f3f8c653a27d513fc8952970c2</guid>
+      <guid isPermaLink="false">92fab9231e22ae3a17cfaf2c19a232794dc337f1</guid>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.2 Pharmacies, Release date August 12, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.2 Pharmacies, Release date August 12, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69619 Change the UI menus and titles to match those of LS Central&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
 &lt;strong&gt;69791 Fix compile errors on POSGUI and other LSC stuff&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">09921cb9c8428b684fea9c8fdb6deb952181cf91</guid>
+      <guid isPermaLink="false">3daebde7fa9bc7eee45ee72647395c3fc342316e</guid>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.3 Iceland, Release date July 22, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.3 Iceland, Release date July 22, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;61752 Missing icelandic characters in report 10037852&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Icelandic characters in fixed texts corrected.&lt;/li&gt;&lt;/ul&gt;
 &lt;strong&gt;68589 Pharmacy dispense - Send insurance request - wrong sender&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Icelandic characters in fixed texts corrected.&lt;/li&gt;
 &lt;li&gt;The Insurance Sender is used in communication with SÍ, if available in the Store Pharmacy Details. Fallback is the Pharmacy ID.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">9767356e4b1f98a8b0e2b4a4d489c37c86dc083a</guid>
+      <guid isPermaLink="false">45b3cd2c14068b587ee415171bd9583e2267e146</guid>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.3 Pharmacies, Release date August 19, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.3 Pharmacies, Release date August 19, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;67774 Can not void transaction that contains Dispense Posted Production Order&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
@@ -241,11 +241,11 @@
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;
 &lt;li&gt;Fixed scroll problems on the &lt;b&gt;Final Control Panel&lt;/b&gt;. Reduced the margins between buttons on the bottom menu.&lt;/li&gt;
 &lt;li&gt;Improved the styling of the elements created on the &lt;b&gt;Generate Pharmacy Flex UI&lt;/b&gt;.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">418a3fff9c70819c406fe5e67b36e11abe862f5a</guid>
+      <guid isPermaLink="false">bf58b177038bb5904094f7408573fc978184b843</guid>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.4 Iceland, Release date July 29, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.4 Iceland, Release date July 29, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;61752 Missing Icelandic characters in report 10037852&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Icelandic characters in fixed texts corrected.&lt;/li&gt;&lt;/ul&gt;
@@ -256,11 +256,11 @@
 &lt;ul&gt;&lt;li&gt;Icelandic characters in fixed texts corrected.&lt;/li&gt;
 &lt;li&gt;Subscriber retrieves the active functionality profile before communicating via Pharmacy Web Client.&lt;/li&gt;
 &lt;li&gt;Import of Lyfjaverðskrá now creates and maintains the default pricelist as set in Sales &amp;amp;  Receivable Setup and select the Price Group Code defined in that Price List.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">380e0af68edc6c514d66a3e1aa05055880709ba2</guid>
+      <guid isPermaLink="false">1186043b70d3311400b9b002ca88d1120cbf05cd</guid>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.4 Pharmacies, Release date August 26, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.4 Pharmacies, Release date August 26, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70320 Global Access to Selected Functions in Codeunit "LSC PH Item Management"&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Procedures exposed as public:&lt;ul&gt;&lt;li&gt;ShowRelatedItemsByATC&lt;/li&gt;&lt;li&gt;ShowRelatedItemsBySubstance&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
@@ -271,47 +271,47 @@
 &lt;li&gt;ShowRelatedItemsByATC&lt;/li&gt;
 &lt;li&gt;ShowRelatedItemsBySubstance&lt;/li&gt;
 &lt;li&gt;Procedures &lt;b&gt;GetLocationCode&lt;/b&gt; is now public.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">77e0ed70395e15db85d17bff6087d0c71555d139</guid>
+      <guid isPermaLink="false">ae33e641a6d690590ff9758486c7341d78a9b78b</guid>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.5 Iceland, Release date August 12, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.5 Iceland, Release date August 12, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69515 IS Dispense changed strength on pharmacy item&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Allows the user to identify Pharmacy Items that 0 strength was changed by Lyfjastofnun to non-zero value. This was causing problems in Dose Dispensing since there were open e-prescriptions issued when the Item had 0 in strength and all quantities calculated in pills.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">53f22cbbdd5d431c364191824b8d39f559fee88e</guid>
+      <guid isPermaLink="false">6e64c32dd7c75949078d6023eecb2107d6310f65</guid>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.5 Pharmacies, Release date September 9, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.5 Pharmacies, Release date September 9, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70635 Pharmacy Dispensation: Prices do not include VAT in dispense production orders&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Calculated Price Incl. VAT in Dispense Production is based on the field &lt;b&gt;Price incl. VAT&lt;/b&gt; in the PriceList line.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">5d4b189ebf26a629296023794ad9a5d81dac89ce</guid>
+      <guid isPermaLink="false">a67124c10a5b3c49f7927a3f56a9bc1938201be0</guid>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.6 Iceland, Release date August 19, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.6 Iceland, Release date August 19, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70173 IS insurance sender can be blank&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;The Insurance Sender is used in communication with SÍ, regardless whether it is blank or has value.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">854b23b7552d3f9b11c191f999f7468179be71fa</guid>
+      <guid isPermaLink="false">e0edfb05400944bf4dcbbe02ac4c9f20c1693999</guid>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.6 Pharmacies, Release date September 16, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.6 Pharmacies, Release date September 16, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;71694 Replace NoSeriesManagement with new BC Foundation No.Series app&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">17cb6a5440709a8241d4478c7619bf5c270f5896</guid>
+      <guid isPermaLink="false">8c630b5a7f8d11e6277bb68fe47c6606bcfe15a1</guid>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pharmacies hotfixes - 26.1.7 Iceland, Release date September 2, 2025</title>
+      <title>Pharmacies hotfixes - 26.1.7 Iceland, Release date September 2, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;68269 Posting in posting queue with CU 10015396&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Insurance Sender is &lt;b&gt;Blank&lt;/b&gt; if it is not defined in Store Pharmacy Details. Posting from Posting Queue in Scheduled Job where Scheduler User is &lt;b&gt;not assigned&lt;/b&gt; to a Pharmacy lead to reserved e-prescriptions, without a posted withdraw for posted Prescription Orders. This was fixed.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3722bf2ab68b133f2764fa0c7b871800bc5d6c3d</guid>
+      <guid isPermaLink="false">1ec4199ca5f379db65460891524f84e099ec14cc</guid>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -943,7 +943,7 @@
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.1, Release date June 24, 2025</title>
+      <title>LS Central hotfixes - 26.1.1, Release date June 24, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;68530 Print Slip Subscriber on Card/Account No. Tender Payment print&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;New Event &lt;b&gt;OnBeforePrintCardAccountNo&lt;/b&gt; in POS Print Utility.&lt;/li&gt;&lt;/ul&gt;
@@ -1220,21 +1220,21 @@
 &lt;li&gt;Added event &lt;b&gt;OnBeforePickUpWarning&lt;/b&gt; on POS Transaction.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">608f67c25d44add85790b10583bd324a9c17c20d</guid>
+      <guid isPermaLink="false">f11afb7f79e58b5eb659b710b754907206caa6f8</guid>
       <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.2, Release date June 25, 2025</title>
+      <title>LS Central hotfixes - 26.1.2, Release date June 25, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;68305 Negative stock in Table Inventory Lookup Pölder&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
 &lt;strong&gt;68503 Activity Matrix – Activity List from availability slots&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b5cca5eac419aa0b2d27018fff47465e1b60210c</guid>
+      <guid isPermaLink="false">ec36c9abf75455eb80cb7da2ec7c6526bb6c38df</guid>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.3, Release date July 1, 2025</title>
+      <title>LS Central hotfixes - 26.1.3, Release date July 1, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;68644 Public Methods in Periodic Discounts #531&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Made three procedures publicly available in Periodic discount.&lt;/li&gt;&lt;/ul&gt;
@@ -1388,11 +1388,11 @@
 &lt;li&gt;Wrong Refund status was displayed on Customer Order. This was fixed. If not refunded on POS, &lt;b&gt;Payment Pending&lt;/b&gt; should be displayed.&lt;/li&gt;
 &lt;li&gt;New option was added in Retail item card &lt;b&gt;LSC Assign SerialNo/LotNo In CO Picking&lt;/b&gt;, which specifies whether to delay assigning SerialNo/LotNo until the picking of the item in the Customer Order. If this field is selected, the SerialNo/LotNo is assigned when the item is picked in the CO. If this field is not selected, the SerialNo/LotNo is assigned when the item is added to POS.&lt;/li&gt;
 &lt;li&gt;Reprice on refund skipped. This was fixed.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b362160bb47dfd374126616c9837f521e6426888</guid>
+      <guid isPermaLink="false">9047fa0044f47771c8aa1152e51793679e5d50f9</guid>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.4,  Release date July 8, 2025</title>
+      <title>LS Central hotfixes - 26.1.4,  Release date July 8, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;68822 No change in service charge on total press when sales type is changes from dine in to takeaway&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;If a retail charge is inserted on &lt;b&gt;TotalPressed&lt;/b&gt; based on a sales type, and then lines with that sales type, change sales type, or are voided, when &lt;b&gt;TotalPressed&lt;/b&gt; is pressed again, the retail charge line becomes voided.&lt;/li&gt;&lt;/ul&gt;
@@ -1671,11 +1671,11 @@
 &lt;li&gt;Rounding issue was solved when a second Sales Order was created from Customer Order. CO was created for Warehouse delivery. The SO was partly delivered. Then the Customer Order was edited on POS and additional Item was added. That resulted in an abnormal rounding line, created in the second Sales Order.&lt;/li&gt;
 &lt;li&gt;Pressing Total is no longer  allowed, unless having at least one POS Trans. Line.&lt;/li&gt;
 &lt;li&gt;Reprice on refund was skipped. This was fixed.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">cf342d4afad812ad175be6cea5319dcf3d788d6a</guid>
+      <guid isPermaLink="false">ef1e555072bc4735b3a16f0baa7771230513686a</guid>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.5,  Release date July 11, 2025</title>
+      <title>LS Central hotfixes - 26.1.5,  Release date July 11, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69172 Fix compile failures in hotfix/latest - Customer Order Header&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
@@ -1691,11 +1691,11 @@
 &lt;li&gt;Added missing &lt;b&gt;GuiAllowed&lt;/b&gt; before a popup was displayed.&lt;/li&gt;
 &lt;li&gt;Do not display the amount popup, when error message is displayed before Payment with Member Points.&lt;/li&gt;
 &lt;li&gt;Issue with Z-Report payment entries did not clear after print was fixed.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">5f57d76683ec787867dd2c4664dd905f24c4137d</guid>
+      <guid isPermaLink="false">0744eb54ed29f27790a88bc3e6727b4325513d62</guid>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.6,  Release date July 15, 2025</title>
+      <title>LS Central hotfixes - 26.1.6,  Release date July 15, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69222 Some cleanup for LSC-69172&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
@@ -1729,11 +1729,11 @@
 &lt;li&gt;New event &lt;b&gt;OnBeforeClearDiscountEntryTmp&lt;/b&gt; was added to  &lt;b&gt;LSC POS Post Utility&lt;/b&gt; codeunit.&lt;/li&gt;
 &lt;li&gt;New event &lt;b&gt;OnBeforeZReportConfirm&lt;/b&gt; was added to &lt;b&gt;LSC POS Transaction Impl&lt;/b&gt; codeunit.&lt;/li&gt;
 &lt;li&gt;Periodic discounts are now applied to linked modifier lines when they are inserted into the transaction. Previously, a discount offer on modifier lines were applied to modifier lines if the discount offer was activated, after selecting modifiers (for example, if member scanned after selecting the modifiers then that action, activated a discount offer).&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">64080e6873d99b3f042aca6c444575ccff3a81a2</guid>
+      <guid isPermaLink="false">d143fba27fed3d75aebf3396afc41105508d70f3</guid>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.7, Release date July 22, 2025</title>
+      <title>LS Central hotfixes - 26.1.7, Release date July 22, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69426 AL: fix Order Pull License error&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Fixed Sales Header and Sales Shipping Header License errors when pulling orders from Shopify that have been fulfilled in Shopify.&lt;/li&gt;&lt;/ul&gt;
@@ -1905,41 +1905,41 @@
 &lt;li&gt;Added source code to the journal.&lt;/li&gt;
 &lt;li&gt;Issued fixed with INCEXP as overtender which does not close the transaction.&lt;/li&gt;
 &lt;li&gt;Allow the “Keep Leading Zeroes in Barc.” field in the “POS Data Entry Type” table to be set to true for all Numbering selection.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">279fe580b234c70504cac9b066fb005bfb0421e5</guid>
+      <guid isPermaLink="false">0331868b5483c3dbcee0a8e5c760f0726abc62ba</guid>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.8, Release date July 23, 2025</title>
+      <title>LS Central hotfixes - 26.1.8, Release date July 23, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69387 Required an Event to "OnBeforeCalcPeriodicDiscountType" to handle a procedure because while applying discount we need to manage discount type&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;New events, &lt;b&gt;OnBeforeCalcPeriodicDiscountType&lt;/b&gt; and &lt;b&gt;OnBeforeSplitLines&lt;/b&gt; was added to &lt;b&gt;LSC POS Price Utility&lt;/b&gt; codeunit.&lt;/li&gt;&lt;/ul&gt;
 &lt;strong&gt;69369 Issue with selling serial number required product to customers&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;New events, &lt;b&gt;OnBeforeCalcPeriodicDiscountType&lt;/b&gt; and &lt;b&gt;OnBeforeSplitLines&lt;/b&gt; was added to &lt;b&gt;LSC POS Price Utility&lt;/b&gt; codeunit.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">dd5f01b614bd9e8fa3b6a5a2f795d85c87f22192</guid>
+      <guid isPermaLink="false">3cf4371c287792eddedb16cc26bedccc37795dbc</guid>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.9, Release date July 24, 2025</title>
+      <title>LS Central hotfixes - 26.1.9, Release date July 24, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69528 Appsource validation error on 25.3.20&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3689cd5a303bc640c5169092ef6e7506920f53b4</guid>
+      <guid isPermaLink="false">85a6e4eaeee4f478c93d1adfdc3bb7be9d2c9c27</guid>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.10, Release date July 24, 2025</title>
+      <title>LS Central hotfixes - 26.1.10, Release date July 24, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69562 Appsource validation error on 26.0 and 26.1&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
 &lt;strong&gt;69430 Quantity error on serial required items&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;
 &lt;li&gt;Fixed issue where it is not possible to set -1 quantity to a item with a serial no.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">533be1c83834cb19442f53f8030e546a76182fd8</guid>
+      <guid isPermaLink="false">6993f7fd815d7a78daacc642dc0f9d3447bf358f</guid>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.11, Release date July 29, 2025</title>
+      <title>LS Central hotfixes - 26.1.11, Release date July 29, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69534 Add event for calculating amount including VAT when creating CO and SO #547&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;New event, &lt;b&gt;OnBeforeSumAmountInclVATByCustomerOrderID&lt;/b&gt; was added to &lt;b&gt;Sales Header&lt;/b&gt; table extension.&lt;/li&gt;&lt;/ul&gt;
@@ -1961,11 +1961,11 @@
 &lt;li&gt;Adjusted previous development to not cause issues with non Item lines on a customer order.&lt;/li&gt;
 &lt;li&gt;Multiple events were added to &lt;b&gt;LSC POS Price Utility&lt;/b&gt; codeunit.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">8325484d7964076b67c9ea212496e61830b477fe</guid>
+      <guid isPermaLink="false">16c3f464b9172bd147b086e8c0e8aebbd633207e</guid>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.12,  Release date August 5, 2025</title>
+      <title>LS Central hotfixes - 26.1.12,  Release date August 5, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69588 Retrieving Transaction From Suspend - Empty Web Service Response due to LSCNA&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
@@ -1994,11 +1994,11 @@
 &lt;li&gt;There was an error when opening sales from store list. This was fixed.&lt;/li&gt;
 &lt;li&gt;With the &lt;b&gt;Purch. Replen. Journal UoM Handling&lt;/b&gt; option in Replen. Setup set to &lt;i&gt;Convert to Purch. UoM&lt;/i&gt; &lt;i&gt;if possible&lt;/i&gt;, the UoM of the Purchase Orders created from the Purchase Replenishment Journal were not converted to Purchase UoM as expected. This issue was fixed.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">7e066ced910df8fd66147d86723dd018f6238ae6</guid>
+      <guid isPermaLink="false">9976cc6653ae953feda114c6dc0410e580acb60e</guid>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.13,  Release date August 6, 2025</title>
+      <title>LS Central hotfixes - 26.1.13,  Release date August 6, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69757 EXTREMELY LONG DELAYS&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
@@ -2009,22 +2009,22 @@
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">bc06870f27d173a3d5267522d1801383bc77d524</guid>
+      <guid isPermaLink="false">ec544a183e1e88714702846a8cbccd8c0b6b47e8</guid>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.14,  Release date August 7, 2025</title>
+      <title>LS Central hotfixes - 26.1.14,  Release date August 7, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69777 Overflow Error When Adding Items to Replen. Journal with Spanish Translation&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;When adding items to the &lt;b&gt;Replen. Journal&lt;/b&gt;, the system runs into an overflow error when Business Central is using Spanish Mexico translation. This was fixed.&lt;/li&gt;&lt;/ul&gt;
 &lt;strong&gt;69108 Specific Pages do not work with Responsibility Center filter&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;When adding items to the &lt;b&gt;Replen. Journal&lt;/b&gt;, the system runs into an overflow error when Business Central is using Spanish Mexico translation. This was fixed.&lt;/li&gt;
 &lt;li&gt;Filter multiple documents correctly with the user's Responsibility Center filter defined in user setup.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">b6d29a83262239ebf3fac44fb8a2ad23241820f9</guid>
+      <guid isPermaLink="false">6a7e00b3cfed2475d243fe282c75930a6e82502a</guid>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.15,  Release date August 12, 2025</title>
+      <title>LS Central hotfixes - 26.1.15,  Release date August 12, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69978 Published Offer not showing&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Redundant local variable removed, to get access to the results from the &lt;b&gt;GetDirectMarketingInfo WS&lt;/b&gt;.&lt;/li&gt;&lt;/ul&gt;
@@ -2196,11 +2196,11 @@
 &lt;li&gt;Access was added to function &lt;b&gt;ShowResourceAvailability&lt;/b&gt; in &lt;b&gt;LS Activities functions CU&lt;/b&gt;.  The access point is in the hotel integration codeunit.&lt;/li&gt;
 &lt;li&gt;Fixed VAT calculation on Sales Order, created by Customer Order.&lt;/li&gt;
 &lt;li&gt;When you use &lt;b&gt;POS Start Amount Method = Flexible Bag&lt;/b&gt;  it should always open the start of day float with amount 0 (as the online help). But it behaved exactly the same as the fixed bag. This was fixed. &lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">0b2dc79d88ee61b9902358c93a1dfe1149ede4b5</guid>
+      <guid isPermaLink="false">ca51184445aa69bc69f276173003863b96525cfe</guid>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.16,  Release date August 14, 2025</title>
+      <title>LS Central hotfixes - 26.1.16,  Release date August 14, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;69994 Customer Order Edit - Refund Returns an Error&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Multiple add and void lines on POS could result in an error: &lt;b&gt;Customer Order cannot be Updated. Changes will be rolled back&lt;/b&gt;. This was fixed. &lt;/li&gt;&lt;/ul&gt;
@@ -2216,11 +2216,11 @@
 &lt;li&gt;CustomerOrderEdit&lt;/li&gt;
 &lt;li&gt;MemberContactCreate&lt;/li&gt;
 &lt;li&gt;MemberContactUpdate.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">d63b9ad50ab81a34ea5b1d169ebba06024ed7fc5</guid>
+      <guid isPermaLink="false">6c99b06388b78f319672ef8d3e8489b3bf7263c6</guid>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.17, Release date August 19, 2025</title>
+      <title>LS Central hotfixes - 26.1.17, Release date August 19, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70158 Upgrade failed from LS 25.3 to 26.1&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;When upgrading WKS tables: Check, &lt;b&gt;put in on new tables&lt;/b&gt; being empty - upgrade only done if they are. &lt;/li&gt;&lt;/ul&gt;
@@ -2249,11 +2249,11 @@
 &lt;li&gt;Event &lt;b&gt;OnBeforeFindItemVariants&lt;/b&gt; was added to &lt;b&gt;Popup Variant Handler&lt;/b&gt; and &lt;b&gt;Pop-up POS Commands&lt;/b&gt; to enable the user to filter on item variants shown in the pop-up.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;
 &lt;li&gt;New event &lt;b&gt;OnBeforeInsertNewTrans&lt;/b&gt; added to &lt;b&gt;LSC Price Check Card&lt;/b&gt; page.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">926327435052291f60a133ca63f065e070ab76bd</guid>
+      <guid isPermaLink="false">a10ac423032bae19b16760bf433fc4fa3489e4a0</guid>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.18, Release date August 20, 2025</title>
+      <title>LS Central hotfixes - 26.1.18, Release date August 20, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70264 Booking POS Posting: Make the Cleanup function lock unfriendly&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;The Booking Posting POS cleanup () function made more lock efficient by checking if it is empty prior and also the search loop is not started in record locking mode.&lt;/li&gt;
@@ -2301,11 +2301,11 @@
 &lt;/li&gt;
 &lt;li&gt;Transaction lookup was fixed, because of empty Transaction record.&lt;/li&gt;
 &lt;li&gt;Fixed problem when multiple add and void lines on POS could result in error: &lt;b&gt;Customer Order cannot be Updated. Changes will be rolled back.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">2d20dd32121e0f9b55492d55af01a17e58961a46</guid>
+      <guid isPermaLink="false">e578488adb54df56a38c91b7d029f9683bb1c931</guid>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.19, Release date August 26, 2025</title>
+      <title>LS Central hotfixes - 26.1.19, Release date August 26, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70369 Request user to enter search criteria on Member Contact panel&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
@@ -2361,19 +2361,19 @@
 &lt;li&gt;New POS Command ASSIGNSERIALNO_LOTNO that can be assigned to button that is  able to assign or change Serial/Lot No for items, while in POS transaction.&lt;/li&gt;
 &lt;li&gt;Before and after event status change published events were added. &lt;/li&gt;
 &lt;li&gt;REORDERQTY and REORDERMENUTYPE commands were refactored to fix problems with quantity, line numbers and transaction entries of linked lines.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">34fe089ff4d179621f2395f1a271b9ca391b691f</guid>
+      <guid isPermaLink="false">330e77cf91e9e4a69081622bf65951ed689bd93f</guid>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.20, Release date August 26, 2025</title>
+      <title>LS Central hotfixes - 26.1.20, Release date August 26, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70331 'tender Operation' and 'FLOAT_ENT' handling - event missing a parameter&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;A new parameter, &lt;b&gt;SafTenderDataTable&lt;/b&gt; variable was added in existing event &lt;b&gt;OnBeforeInitMenuOnInitSafTenderPanel&lt;/b&gt; in LSC Safe Denom. Panel Commands codeunit.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">3cbb824a227a9d7eaf8c9b6d9f928a3502c22ee1</guid>
+      <guid isPermaLink="false">7bf487eb355b200b015db62a7be7a57a52479851</guid>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.21, Release date August 28, 2025</title>
+      <title>LS Central hotfixes - 26.1.21, Release date August 28, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70331 'tender Operation' and 'FLOAT_ENT' handling - event missing a parameter&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;A new parameter, &lt;b&gt;SafTenderDataTable&lt;/b&gt; variable was added in existing event &lt;b&gt;OnBeforeInitMenuOnInitSafTenderPanel&lt;/b&gt; in LSC Safe Denom. Panel Commands codeunit.&lt;/li&gt;&lt;/ul&gt;
@@ -2402,19 +2402,19 @@
 &lt;li&gt;Now Customer Order transactions can be suspended. However, it is only possible &lt;b&gt;before&lt;/b&gt; the Customer Order is created.&lt;/li&gt;
 &lt;li&gt;Now it is possible to change discount on discount offer products.&lt;/li&gt;
 &lt;li&gt;Statement posting now works with excluded recipe/ingredients and Inventory Setup option &lt;b&gt;Prevent Negative Inventory&lt;/b&gt;.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">121890ccebbb0e488e2a1ccd339445e700eb12be</guid>
+      <guid isPermaLink="false">5f049a8ced0269f4a3c0c390c0129fca7d1261d9</guid>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.22, Release date August 29, 2025</title>
+      <title>LS Central hotfixes - 26.1.22, Release date August 29, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70461 Repay Prepayment to Customer&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">5e3575ecb108fca8f78ff77b95e2e5a7e9b77d2b</guid>
+      <guid isPermaLink="false">963f8908934e9a2efb1c48f826ba542c23ad88ea</guid>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.23, Release date September 2, 2025</title>
+      <title>LS Central hotfixes - 26.1.23, Release date September 2, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70634 New Events in Mix &amp; Match Registration #560&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;New event &lt;b&gt;OnBeforeRegisterMixMatch&lt;/b&gt; and &lt;b&gt;OnAfterCalcDiscountPr&lt;/b&gt; added to &lt;b&gt;LSC POS Price Utility&lt;/b&gt; codeunit.&lt;/li&gt;&lt;/ul&gt;
@@ -2451,11 +2451,11 @@
 &lt;li&gt;There was an error with Shopify Location setup. It was not correct and could cause CopyStr Error when updating inventory. This was fixed. &lt;/li&gt;
 &lt;li&gt;The count and amount of suspended transactions was incorrect. This was fixed.&lt;/li&gt;
 &lt;li&gt;It is now allowed to add &lt;b&gt;Line Discounts&lt;/b&gt; to lines where a reset discount was previously applied.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">768ace67947b856e9718f771b0bdb28351a7dae9</guid>
+      <guid isPermaLink="false">7e51da2f1a0e8aa043eb6c328be77090dbac3434</guid>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.24, Release date September 8, 2025</title>
+      <title>LS Central hotfixes - 26.1.24, Release date September 8, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;70835 Member Point Offer Not Triggering by Item Category After Upgrade to Version 26.1&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;The list of offers were only filtered by Item. This was fixed and  now finds an offer based on all types.&lt;/li&gt;&lt;/ul&gt;
@@ -2481,19 +2481,19 @@
 &lt;li&gt;When doing a second refund on the same payment the amount that is presented to the cashier has to be the remaining amount available for refund on the card payment not the original amount.&lt;/li&gt;
 &lt;li&gt;To activate this functionality configurations &lt;b&gt;Use Reference Refund&lt;/b&gt; and &lt;b&gt;Use Refund Selection&lt;/b&gt; must both be active.&lt;/li&gt;
 &lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">340f09ed1a8739a2d0f353202ffd29d1e67b9653</guid>
+      <guid isPermaLink="false">431650e2b329facade35a5c0f38443beddb3be06</guid>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.25, Release date September 8, 2025</title>
+      <title>LS Central hotfixes - 26.1.25, Release date September 8, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;71437 AppSource validation failure&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">7a8d7ff561374ef47be4d8666d9f74a9cc723586</guid>
+      <guid isPermaLink="false">06a5443d1d012e2dafc698dc465fb55b6d06a93a</guid>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.26, Release date September 9, 2025</title>
+      <title>LS Central hotfixes - 26.1.26, Release date September 9, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;71523 Member Scheme Upgrade Skips a Level - Copy&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;&lt;/ul&gt;
@@ -2504,11 +2504,11 @@
 &lt;ul&gt;&lt;li&gt;Details not available.&lt;/li&gt;
 &lt;li&gt;There was an issue when  the same bag number was used for separate entries then the bag was closed. This was fixed. There was also an error with  a bag that had a remaining amount different from the starting amount, the bag was not able to post a safe transfer. This was fixed. &lt;/li&gt;
 &lt;li&gt;Increased variable size to handle translations that require more characters.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">014bae6d2a1cb5b17eefd1fe0a701d763860b6c1</guid>
+      <guid isPermaLink="false">ac6128874c29e9bb8e3c7040e0b835b3475b4a02</guid>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>LS Centralhotfixes - 26.1.27, Release date September 16, 2025</title>
+      <title>LS Central hotfixes - 26.1.27, Release date September 16, 2025</title>
       <link>https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-26-1.htm</link>
       <description>&lt;strong&gt;71686 Incorrect posting when partially returning Customer Order&lt;/strong&gt;
 &lt;ul&gt;&lt;li&gt;Customer Order Edit: duplicate payment line was created when &lt;b&gt;Sales Order&lt;/b&gt; was posted and a line had been voided and refunded on POS.&lt;/li&gt;&lt;/ul&gt;
@@ -2524,7 +2524,7 @@
 &lt;li&gt;Rounding of Net Amount was fixed on returns when canceling prepayments and returning with cash.&lt;/li&gt;
 &lt;li&gt;New event, &lt;b&gt;OnBeforeItemBaseUnitOfMeasureOnAfterValidateEvent&lt;/b&gt; was added to &lt;b&gt;LSC Product Ext.&lt;/b&gt; codeunit.&lt;/li&gt;
 &lt;li&gt;Allowed global variables &lt;b&gt;gIsLSCentralPage&lt;/b&gt; and &lt;b&gt;gIsShowLinesPage&lt;/b&gt; to be changed outside the page extension, setting it as protected.&lt;/li&gt;&lt;/ul&gt;</description>
-      <guid isPermaLink="false">d3a5a8035dee940156315d4e1c8ae62a4188ddeb</guid>
+      <guid isPermaLink="false">3a3611726260fb473413eddb25ed9b4cb315f014</guid>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
