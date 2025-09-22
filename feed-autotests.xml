@@ -1,14 +1,14 @@
 ---
 layout: none
-permalink: /feed/ls-central.xml
+permalink: /feed/autotests.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>LS Central Hotfixes</title>
+  <title>Autotests Hotfixes</title>
   <link>{{ site.url }}/hotfixes/</link>
-  <description>Hotfixes for LS Central</description>
-  {% assign fixes = site.hotfixes | where: "product", "LS Central" %}
+  <description>Hotfixes for Autotests</description>
+  {% assign fixes = site.hotfixes | where: "product", "Autotests" %}
   {% for fix in fixes %}
   <item>
     <title>{{ fix.title }}</title>
