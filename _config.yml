@@ -34,10 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
-collections:
-  hotfixes:
-    output: true
-    permalink: /hotfixes/:name/
+feed:
+  collections:
+    hotfixes:
+      output: true
+      permalink: /hotfixes/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
