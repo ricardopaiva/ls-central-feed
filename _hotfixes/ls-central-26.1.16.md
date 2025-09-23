@@ -2,6 +2,8 @@
 title: "LS Central hotfixes - 26.1.16,  Release date August 14, 2025 - Hotfixes"
 product: LS Central
 version: "26.1.16"
+subproduct: 
+minor_version: "26.1"
 date: 2025-08-14 00:00:00+00:00
 ---
 

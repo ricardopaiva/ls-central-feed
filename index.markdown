@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# RSS Feeds
+
+{% include rss.html %}
