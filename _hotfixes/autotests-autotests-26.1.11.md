@@ -5,6 +5,7 @@ version: "26.1.11"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-08-28 00:00:00+00:00
+order: 30
 ---
 
 <strong>69925 Unable to change discount on discount offer products</strong>

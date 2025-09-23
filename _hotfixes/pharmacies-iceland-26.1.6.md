@@ -5,6 +5,7 @@ version: "26.1.6"
 subproduct: Iceland
 minor_version: "26.1"
 date: 2025-08-19 00:00:00+00:00
+order: 73
 ---
 
 <strong>70173 IS insurance sender can be blank</strong>

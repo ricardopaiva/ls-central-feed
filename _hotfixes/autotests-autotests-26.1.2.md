@@ -5,6 +5,7 @@ version: "26.1.2"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-07-01 00:00:00+00:00
+order: 39
 ---
 
 <strong>68155 Creating membership card with more than 20 characteres at POS</strong>

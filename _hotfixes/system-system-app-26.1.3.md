@@ -5,6 +5,7 @@ version: "26.1.3"
 subproduct: System App
 minor_version: "26.1"
 date: 2025-07-15 00:00:00+00:00
+order: 86
 ---
 
 <strong>68962 Boolean selection issue on POS Panel</strong>

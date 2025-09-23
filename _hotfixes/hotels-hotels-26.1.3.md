@@ -5,6 +5,7 @@ version: "26.1.3"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-07-08 00:00:00+00:00
+order: 51
 ---
 
 <strong>68328 PMS: Nationality report not showing correct data</strong>

@@ -5,6 +5,7 @@ version: "26.1.5"
 subproduct: Local Functionality N-America
 minor_version: "26.1"
 date: 2025-09-02 00:00:00+00:00
+order: 56
 ---
 
 <strong>69576 LSC NA - Sales Tax Error on CO Pickup</strong>

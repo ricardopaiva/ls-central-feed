@@ -5,6 +5,7 @@ version: "26.1.19"
 subproduct: 
 minor_version: "26.1"
 date: 2025-08-26 00:00:00+00:00
+order: 9
 ---
 
 <strong>70369 Request user to enter search criteria on Member Contact panel</strong>

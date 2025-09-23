@@ -5,6 +5,7 @@ version: "26.1.7"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-08-05 00:00:00+00:00
+order: 34
 ---
 
 <strong>68768 Error when opening sales from store list in LS Central 26.1</strong>

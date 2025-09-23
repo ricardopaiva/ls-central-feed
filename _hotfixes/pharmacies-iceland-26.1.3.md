@@ -5,6 +5,7 @@ version: "26.1.3"
 subproduct: Iceland
 minor_version: "26.1"
 date: 2025-07-22 00:00:00+00:00
+order: 79
 ---
 
 <strong>61752 Missing icelandic characters in report 10037852</strong>

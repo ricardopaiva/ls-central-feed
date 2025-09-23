@@ -5,6 +5,7 @@ version: "26.1.4"
 subproduct: 
 minor_version: "26.1"
 date: 2025-07-08 00:00:00+00:00
+order: 24
 ---
 
 <strong>68822 No change in service charge on total press when sales type is changes from dine in to takeaway</strong>

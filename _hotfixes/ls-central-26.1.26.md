@@ -5,6 +5,7 @@ version: "26.1.26"
 subproduct: 
 minor_version: "26.1"
 date: 2025-09-09 00:00:00+00:00
+order: 2
 ---
 
 <strong>71523 Member Scheme Upgrade Skips a Level - Copy</strong>

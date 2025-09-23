@@ -5,6 +5,7 @@ version: "26.1.8"
 subproduct: 
 minor_version: "26.1"
 date: 2025-07-23 00:00:00+00:00
+order: 20
 ---
 
 <strong>69387 Required an Event to "OnBeforeCalcPeriodicDiscountType" to handle a procedure because while applying discount we need to manage discount type</strong>

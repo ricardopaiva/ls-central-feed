@@ -5,6 +5,7 @@ version: "26.1.23"
 subproduct: 
 minor_version: "26.1"
 date: 2025-09-02 00:00:00+00:00
+order: 5
 ---
 
 <strong>70634 New Events in Mix & Match Registration #560</strong>

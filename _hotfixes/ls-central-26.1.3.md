@@ -5,6 +5,7 @@ version: "26.1.3"
 subproduct: 
 minor_version: "26.1"
 date: 2025-07-01 00:00:00+00:00
+order: 25
 ---
 
 <strong>68644 Public Methods in Periodic Discounts #531</strong>

@@ -5,6 +5,7 @@ version: "26.1.2"
 subproduct: Local Functionality India
 minor_version: "26.1"
 date: 2025-07-15 00:00:00+00:00
+order: 64
 ---
 
 <strong>68793 LSC IN - GST Calculation Issue - Voided Item if item is same</strong>

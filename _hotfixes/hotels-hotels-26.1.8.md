@@ -5,6 +5,7 @@ version: "26.1.8"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-08-22 00:00:00+00:00
+order: 46
 ---
 
 <strong>70121 Hotel POS Payment – Error Pop-up Resets Amount to $0.00</strong>

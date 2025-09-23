@@ -5,6 +5,7 @@ version: "26.1.14"
 subproduct: 
 minor_version: "26.1"
 date: 2025-08-07 00:00:00+00:00
+order: 14
 ---
 
 <strong>69777 Overflow Error When Adding Items to Replen. Journal with Spanish Translation</strong>

@@ -5,6 +5,7 @@ version: "26.1.1"
 subproduct: Local Functionality Spain
 minor_version: "26.1"
 date: 2025-08-05 00:00:00+00:00
+order: 67
 ---
 
 <strong>69738 LSC ES - Release Fiskaly Connector</strong>

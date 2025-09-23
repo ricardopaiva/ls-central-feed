@@ -5,6 +5,7 @@ version: "26.1.2"
 subproduct: Local Functionality Germany
 minor_version: "26.1"
 date: 2025-07-22 00:00:00+00:00
+order: 63
 ---
 
 <strong>68239 LSC DE - Fiskaly Error: E_TX_NOT_FOUND Transaction not found in SIGN DE (In Local Functionality DE)</strong>

@@ -5,6 +5,7 @@ version: "26.1.4"
 subproduct: System App
 minor_version: "26.1"
 date: 2025-07-22 00:00:00+00:00
+order: 85
 ---
 
 <strong>68652 Number Pad disappears on manual tips</strong>

@@ -5,6 +5,7 @@ version: "26.1.1"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-06-24 00:00:00+00:00
+order: 53
 ---
 
 <strong>68276 Refund process fails in some scenarios</strong>

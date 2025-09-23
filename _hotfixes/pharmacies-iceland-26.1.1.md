@@ -5,6 +5,7 @@ version: "26.1.1"
 subproduct: Iceland
 minor_version: "26.1"
 date: 2025-07-01 00:00:00+00:00
+order: 83
 ---
 
 <strong>67901 Pharmacy - Show remaining quantity in E-Prescription list</strong>

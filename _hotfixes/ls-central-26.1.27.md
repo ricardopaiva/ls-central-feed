@@ -5,6 +5,7 @@ version: "26.1.27"
 subproduct: 
 minor_version: "26.1"
 date: 2025-09-16 00:00:00+00:00
+order: 1
 ---
 
 <strong>71686 Incorrect posting when partially returning Customer Order</strong>

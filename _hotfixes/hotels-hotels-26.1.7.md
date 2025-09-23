@@ -5,6 +5,7 @@ version: "26.1.7"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-08-19 00:00:00+00:00
+order: 47
 ---
 
 <strong>70118 Tape Chart: fuzzy search doesn't work for room name</strong>

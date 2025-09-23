@@ -5,6 +5,7 @@ version: "26.1.2"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-07-01 00:00:00+00:00
+order: 52
 ---
 
 <strong>68752 Refunded Tip - posting not correct</strong>

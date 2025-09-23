@@ -5,6 +5,7 @@ version: "26.1.5"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-07-15 00:00:00+00:00
+order: 36
 ---
 
 <strong>69222 Some cleanup for LSC-69172</strong>

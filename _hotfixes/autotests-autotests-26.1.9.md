@@ -5,6 +5,7 @@ version: "26.1.9"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-08-20 00:00:00+00:00
+order: 32
 ---
 
 <strong>70154 Customer Order Edit - Refund Returns an Error - Copy</strong>

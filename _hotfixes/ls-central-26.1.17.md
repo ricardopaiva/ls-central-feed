@@ -5,6 +5,7 @@ version: "26.1.17"
 subproduct: 
 minor_version: "26.1"
 date: 2025-08-19 00:00:00+00:00
+order: 11
 ---
 
 <strong>70158 Upgrade failed from LS 25.3 to 26.1</strong>

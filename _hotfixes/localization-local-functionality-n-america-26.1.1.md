@@ -5,6 +5,7 @@ version: "26.1.1"
 subproduct: Local Functionality N-America
 minor_version: "26.1"
 date: 2025-07-08 00:00:00+00:00
+order: 69
 ---
 
 <strong>68788 LSCNA - Handle Subtotal for POS Sales Slip</strong>

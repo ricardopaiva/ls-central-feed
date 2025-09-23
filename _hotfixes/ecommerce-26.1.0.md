@@ -5,6 +5,7 @@ version: "26.1.0"
 subproduct: 
 minor_version: "26.1"
 date: 2025-07-08 00:00:00+00:00
+order: 89
 ---
 
 <strong>66267 AL: Granted Discount in Shopify Orders is not captured during settlement of Click & Collect transactions.</strong>

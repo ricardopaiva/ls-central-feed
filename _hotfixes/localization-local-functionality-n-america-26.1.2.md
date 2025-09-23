@@ -5,6 +5,7 @@ version: "26.1.2"
 subproduct: Local Functionality N-America
 minor_version: "26.1"
 date: 2025-07-31 00:00:00+00:00
+order: 62
 ---
 
 <strong>69507 Double Tax on Receipt</strong>

@@ -5,6 +5,7 @@ version: "26.1.1"
 subproduct: Local Functionality Canada
 minor_version: "26.1"
 date: 2025-09-17 00:00:00+00:00
+order: 65
 ---
 
 <strong>71752 Not able to split bill</strong>

@@ -5,6 +5,7 @@ version: "26.1.6"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-07-22 00:00:00+00:00
+order: 35
 ---
 
 <strong>68999 Error while selecting Link to account</strong>
