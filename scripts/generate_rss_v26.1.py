@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from feedgen.feed import FeedGenerator
+# from feedgen.feed import FeedGenerator
 import hashlib
 from datetime import datetime, timezone
 
@@ -165,50 +165,50 @@ def generate_hotfixes_dict(content):
     return hotfixes
 
 
-def generate_rss_feed(content, output_file="hotfixes.xml"):
-    fg = FeedGenerator()
-    fg.id("https://example.com/hotfixes/rss")
-    fg.title("Product Hotfixes")
-    fg.link(href="https://example.com/hotfixes", rel="alternate")
-    fg.link(href="https://example.com/hotfixes/rss", rel="self")
-    fg.description("RSS feed of the latest product hotfixes.")
+# def generate_rss_feed(content, output_file="hotfixes.xml"):
+#     fg = FeedGenerator()
+#     fg.id("https://example.com/hotfixes/rss")
+#     fg.title("Product Hotfixes")
+#     fg.link(href="https://example.com/hotfixes", rel="alternate")
+#     fg.link(href="https://example.com/hotfixes/rss", rel="self")
+#     fg.description("RSS feed of the latest product hotfixes.")
 
 
-    # 4. Loop through hotfix items and add them to feed
-    for product, versions in content.items():
-        for version, items_list in versions.items():
+#     # 4. Loop through hotfix items and add them to feed
+#     for product, versions in content.items():
+#         for version, items_list in versions.items():
 
-            title = f"{product} - {version} - Hotfixes"
-            guid = hashlib.sha1(title.encode("utf-8")).hexdigest()
-            pub_date = extract_release_date(version)
+#             title = f"{product} - {version} - Hotfixes"
+#             guid = hashlib.sha1(title.encode("utf-8")).hexdigest()
+#             pub_date = extract_release_date(version)
 
-            fe = fg.add_entry()
-            fe.id(guid)
-            fe.title(title)
-            fe.link(href=URL)
-            fe.pubDate(pub_date)
+#             fe = fg.add_entry()
+#             fe.id(guid)
+#             fe.title(title)
+#             fe.link(href=URL)
+#             fe.pubDate(pub_date)
 
-            for items in items_list:
-                desc_items = []
-                for items in items_list:
-                    items_array = []
+#             for items in items_list:
+#                 desc_items = []
+#                 for items in items_list:
+#                     items_array = []
 
-                    for item_title, details in items:
-                        item_text = f"<strong>{item_title}</strong>"
-                        desc_items.append(f"{item_text}")
-                        for detail in details:
-                            items_array.append(f"{detail}")
-                        desc_items.append(f"<ul>" + "\n".join(items_array) + "</ul>")
-                description = "\n".join(desc_items)
+#                     for item_title, details in items:
+#                         item_text = f"<strong>{item_title}</strong>"
+#                         desc_items.append(f"{item_text}")
+#                         for detail in details:
+#                             items_array.append(f"{detail}")
+#                         desc_items.append(f"<ul>" + "\n".join(items_array) + "</ul>")
+#                 description = "\n".join(desc_items)
 
-            fe.description(description)
+#             fe.description(description)
 
-    # 5. Save the feed to an XML file
-    rss_feed = fg.rss_str(pretty=True)
-    with open(output_file, "wb") as f:
-        f.write(rss_feed)
+#     # 5. Save the feed to an XML file
+#     rss_feed = fg.rss_str(pretty=True)
+#     with open(output_file, "wb") as f:
+#         f.write(rss_feed)
 
-    print(f"RSS feed generated: {output_file}")
+#     print(f"RSS feed generated: {output_file}")
 
 
 def generate_rss_feed_for_jekyll(hotfix):  #save_hotfix_md
