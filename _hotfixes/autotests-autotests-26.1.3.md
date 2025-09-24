@@ -5,7 +5,7 @@ version: "26.1.3"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-07-08 00:00:00+00:00
-order: 38
+order: 39
 ---
 
 <strong>68248 Valid Offer not triggered in Hospitality POS</strong>

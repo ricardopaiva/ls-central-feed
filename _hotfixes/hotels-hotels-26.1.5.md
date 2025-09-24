@@ -5,7 +5,7 @@ version: "26.1.5"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-07-22 00:00:00+00:00
-order: 49
+order: 51
 ---
 
 <strong>69255 LS Hotel > Tape Chart cuts the display of hotel reservations that runs through dates with more than 7 nights stay</strong>

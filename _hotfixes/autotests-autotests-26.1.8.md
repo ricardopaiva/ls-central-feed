@@ -5,7 +5,7 @@ version: "26.1.8"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-08-12 00:00:00+00:00
-order: 33
+order: 34
 ---
 
 <strong>69853 SumAmountInclVATByCustomerOrderID calculates in LCY causing error creating Customer Orders</strong>

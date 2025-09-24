@@ -5,7 +5,7 @@ version: "26.1.2"
 subproduct: Iceland
 minor_version: "26.1"
 date: 2025-07-15 00:00:00+00:00
-order: 81
+order: 86
 ---
 
 <strong>67404 Changes to function OnCalcInsuranceforOmniPresc in codeunit 10037814 "LSC PHIS Insurance Management</strong>

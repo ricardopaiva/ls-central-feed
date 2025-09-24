@@ -5,7 +5,7 @@ version: "26.1.2"
 subproduct: 
 minor_version: "26.1"
 date: 2025-06-25 00:00:00+00:00
-order: 26
+order: 27
 ---
 
 <strong>68305 Negative stock in Table Inventory Lookup Pölder</strong>

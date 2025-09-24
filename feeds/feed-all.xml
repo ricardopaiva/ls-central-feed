@@ -1,14 +1,14 @@
 ---
 layout: none
-permalink: /feed/system-app.xml
+permalink: /feed/all.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>System App Hotfixes</title>
+  <title>Hotfixes - all</title>
   <link>{{ site.url }}/hotfixes/</link>
-  <description>Hotfixes for System App</description>
-  {% assign fixes = site.hotfixes | where: "product", "System App" %}
+  <description>RSS feed for all hotfixes</description>
+  {% assign fixes = site.hotfixes  %}
   {% for fix in fixes %}
   <item>
     <title>{{ fix.title }}</title>

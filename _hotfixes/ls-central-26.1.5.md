@@ -5,7 +5,7 @@ version: "26.1.5"
 subproduct: 
 minor_version: "26.1"
 date: 2025-07-11 00:00:00+00:00
-order: 23
+order: 24
 ---
 
 <strong>69172 Fix compile failures in hotfix/latest - Customer Order Header</strong>

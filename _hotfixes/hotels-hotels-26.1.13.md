@@ -5,7 +5,7 @@ version: "26.1.13"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-09-16 00:00:00+00:00
-order: 41
+order: 43
 ---
 
 <strong>71333 Amount displayed on multiple Hotel Refunds</strong>

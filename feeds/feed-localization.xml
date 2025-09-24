@@ -5,9 +5,9 @@ permalink: /feed/localization.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Localization Hotfixes</title>
+  <title>Hotfixes - Localization</title>
   <link>{{ site.url }}/hotfixes/</link>
-  <description>Hotfixes for Localization</description>
+  <description>RSS feed for Localization hotfixes</description>
   {% assign fixes = site.hotfixes | where: "product", "Localization" %}
   {% for fix in fixes %}
   <item>

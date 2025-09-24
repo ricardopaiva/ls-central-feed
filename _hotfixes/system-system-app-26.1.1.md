@@ -5,7 +5,7 @@ version: "26.1.1"
 subproduct: System App
 minor_version: "26.1"
 date: 2025-06-24 00:00:00+00:00
-order: 88
+order: 93
 ---
 
 <strong>68442 Glyph values cause runtime error in POS Client</strong>

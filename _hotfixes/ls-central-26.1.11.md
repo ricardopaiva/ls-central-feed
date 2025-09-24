@@ -5,7 +5,7 @@ version: "26.1.11"
 subproduct: 
 minor_version: "26.1"
 date: 2025-07-29 00:00:00+00:00
-order: 17
+order: 18
 ---
 
 <strong>69534 Add event for calculating amount including VAT when creating CO and SO #547</strong>

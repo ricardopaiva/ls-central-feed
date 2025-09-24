@@ -5,7 +5,7 @@ version: "26.1.1"
 subproduct: 
 minor_version: "26.1"
 date: 2025-06-24 00:00:00+00:00
-order: 27
+order: 28
 ---
 
 <strong>68530 Print Slip Subscriber on Card/Account No. Tender Payment print</strong>

@@ -253,9 +253,11 @@ def save_feed_template(product=None, version=None):
         name = "all"
         filter_clause = ""
 
+    filename = name.replace(" ", "-").lower()
+
     template = f"""---
 layout: none
-permalink: /feed/{name}.xml
+permalink: /feed/{filename}.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
@@ -275,7 +277,7 @@ permalink: /feed/{name}.xml
 </channel>
 </rss>
 """
-    with open(f"feeds/feed-{name}.xml", "w", encoding="utf-8") as f:
+    with open(f"feeds/feed-{filename}.xml", "w", encoding="utf-8") as f:
         f.write(template)
 
 
@@ -295,6 +297,13 @@ hotfixes_dict = generate_hotfixes_dict(content)
 for hotfix in hotfixes_dict:
     generate_rss_feed_for_jekyll(hotfix)  # Uses jekyll-feed
 
-save_feed_template()
+save_feed_template(product=None)  # Save all hotfixes feed (feed-all.xml)
 
+# Get unique products using set comprehension
+unique_products = {product['product'] for product in hotfixes_dict}
+print("Unique products found:", unique_products)
+
+for unique_product in unique_products:  # Save product-specific feeds
+    save_feed_template(product=unique_product)
+    
 print('The end')

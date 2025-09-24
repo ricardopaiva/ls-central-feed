@@ -5,7 +5,7 @@ version: "26.1.2"
 subproduct: System App
 minor_version: "26.1"
 date: 2025-07-01 00:00:00+00:00
-order: 87
+order: 92
 ---
 
 <strong>67601 Printer shows infinite "Opening drawer" when paper empty</strong>

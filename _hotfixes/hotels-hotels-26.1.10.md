@@ -5,7 +5,7 @@ version: "26.1.10"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-08-29 00:00:00+00:00
-order: 44
+order: 46
 ---
 
 <strong>70592 Integration events for hotel</strong>

@@ -5,7 +5,7 @@ version: "26.1.12"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-09-08 00:00:00+00:00
-order: 29
+order: 30
 ---
 
 <strong>70835 Member Point Offer Not Triggering by Item Category After Upgrade to Version 26.1</strong>

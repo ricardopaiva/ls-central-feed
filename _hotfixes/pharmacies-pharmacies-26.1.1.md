@@ -5,7 +5,7 @@ version: "26.1.1"
 subproduct: Pharmacies
 minor_version: "26.1"
 date: 2025-07-15 00:00:00+00:00
-order: 82
+order: 87
 ---
 
 <strong>67397 LS Central for pharmacies: Make procedures global</strong>

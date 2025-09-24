@@ -14,6 +14,9 @@ This is my personal site and not an official company resource. I maintain it bec
 {% assign products = site.hotfixes | map: "product" | uniq %}
 
 <ul>
+    <li>
+        <a class="btn btn-rss" href="{{ site.url }}{{ site.baseurl }}/feed/feed-all.xml" target="_blank">Subscribe to {{ product }} RSS</a>
+    </li>
 {% for product in products %}
     {% assign fixes = site.hotfixes | where: "product", product %}
     {% assign fix = fixes | first %}

@@ -1,14 +1,14 @@
 ---
 layout: none
-permalink: /feed/hotels.xml
+permalink: /feed/ecommerce.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Hotfixes - Hotels</title>
+  <title>Hotfixes - eCommerce</title>
   <link>{{ site.url }}/hotfixes/</link>
-  <description>RSS feed for Hotels hotfixes</description>
-  {% assign fixes = site.hotfixes | where: "product", "Hotels" %}
+  <description>RSS feed for eCommerce hotfixes</description>
+  {% assign fixes = site.hotfixes | where: "product", "eCommerce" %}
   {% for fix in fixes %}
   <item>
     <title>{{ fix.title }}</title>

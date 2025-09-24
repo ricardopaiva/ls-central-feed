@@ -5,7 +5,7 @@ version: "26.1.4"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-07-15 00:00:00+00:00
-order: 50
+order: 52
 ---
 
 <strong>68562 Balance on POS not correct after doing refund on payment with deposits and charges</strong>

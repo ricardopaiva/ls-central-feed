@@ -5,7 +5,7 @@ version: "26.1.13"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-09-09 00:00:00+00:00
-order: 28
+order: 29
 ---
 
 <strong>71523 Member Scheme Upgrade Skips a Level - Copy</strong>

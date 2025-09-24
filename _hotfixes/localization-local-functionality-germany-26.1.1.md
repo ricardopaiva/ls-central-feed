@@ -5,7 +5,7 @@ version: "26.1.1"
 subproduct: Local Functionality Germany
 minor_version: "26.1"
 date: 2025-07-01 00:00:00+00:00
-order: 70
+order: 74
 ---
 
 <strong>68751 LSCDE-Statement post not trigger the fiskaly upload</strong>

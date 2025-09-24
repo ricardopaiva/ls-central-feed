@@ -5,7 +5,7 @@ version: "26.1.6"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-08-12 00:00:00+00:00
-order: 48
+order: 50
 ---
 
 <strong>69717 Folio with only Deposit Assignment and no other charges not displayed in POS</strong>

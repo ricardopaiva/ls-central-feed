@@ -5,7 +5,7 @@ version: "26.1.3"
 subproduct: Local Functionality India
 minor_version: "26.1"
 date: 2025-08-12 00:00:00+00:00
-order: 59
+order: 62
 ---
 
 <strong>69814 GST Calculation Issue - Voided Item if item is same</strong>

@@ -5,7 +5,7 @@ version: "26.1.1"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-06-24 00:00:00+00:00
-order: 40
+order: 41
 ---
 
 <strong>68469 SELLMEMDEPOSIT data table gets stuck</strong>

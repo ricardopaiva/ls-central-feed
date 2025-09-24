@@ -5,7 +5,7 @@ version: "26.1.9"
 subproduct: 
 minor_version: "26.1"
 date: 2025-07-24 00:00:00+00:00
-order: 19
+order: 20
 ---
 
 <strong>69528 Appsource validation error on 25.3.20</strong>

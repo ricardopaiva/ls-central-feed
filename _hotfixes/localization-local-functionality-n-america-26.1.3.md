@@ -5,7 +5,7 @@ version: "26.1.3"
 subproduct: Local Functionality N-America
 minor_version: "26.1"
 date: 2025-08-05 00:00:00+00:00
-order: 60
+order: 63
 ---
 
 <strong>69589 Weird amount triggered on CO Total (modify)</strong>

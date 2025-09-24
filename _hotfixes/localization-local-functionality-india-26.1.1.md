@@ -5,7 +5,7 @@ version: "26.1.1"
 subproduct: Local Functionality India
 minor_version: "26.1"
 date: 2025-07-08 00:00:00+00:00
-order: 68
+order: 72
 ---
 
 <strong>68251 LSC IN - SC-1872-IN | Legal | GST printing on receipt should be provided as a config</strong>

@@ -5,7 +5,7 @@ version: "26.1.10"
 subproduct: Autotests
 minor_version: "26.1"
 date: 2025-08-26 00:00:00+00:00
-order: 31
+order: 32
 ---
 
 <strong>70369 Request user to enter search criteria on Member Contact panel</strong>

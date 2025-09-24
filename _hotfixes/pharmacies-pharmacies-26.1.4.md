@@ -5,7 +5,7 @@ version: "26.1.4"
 subproduct: Pharmacies
 minor_version: "26.1"
 date: 2025-08-26 00:00:00+00:00
-order: 76
+order: 81
 ---
 
 <strong>70320 Global Access to Selected Functions in Codeunit "LSC PH Item Management"</strong>

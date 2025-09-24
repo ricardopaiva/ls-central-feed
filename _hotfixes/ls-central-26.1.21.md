@@ -5,7 +5,7 @@ version: "26.1.21"
 subproduct: 
 minor_version: "26.1"
 date: 2025-08-28 00:00:00+00:00
-order: 7
+order: 8
 ---
 
 <strong>70331 'tender Operation' and 'FLOAT_ENT' handling - event missing a parameter</strong>

@@ -5,7 +5,7 @@ version: "26.1.5"
 subproduct: Pharmacies
 minor_version: "26.1"
 date: 2025-09-09 00:00:00+00:00
-order: 74
+order: 79
 ---
 
 <strong>70635 Pharmacy Dispensation: Prices do not include VAT in dispense production orders</strong>
