@@ -28,7 +28,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        ref: github-actions-test
+        with:
+          ref: github-actions-test
 
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
