@@ -55,6 +55,17 @@ jobs:
           python scripts/generate_rss_v26.1.py
         working-directory: .  # adjust path as needed
 
+
+      - name: Show current branch
+        run: git branch --show-current
+
+      - name: Show branch from GitHub context
+        run: echo "Triggered branch: ${{ github.ref }}"
+
+      - name: Show branch name
+        run: echo "Branch: ${GITHUB_REF##refs/heads/}"
+
+
       - name: Commit new hotfix files if any, to test branch
         run: |
           git config user.name "github-actions[bot]"
