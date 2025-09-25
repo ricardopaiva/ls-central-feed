@@ -73,31 +73,6 @@ jobs:
             echo "No changes, skipping commit"
           fi
 
-      # # Deploy to test branch
-      # - name: Deploy to gh-pages-test
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   run: |
-      #     TEST_BRANCH="gh-pages-test"
-      #     REPO="https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
-
-      #     # Clone the test branch or create if doesn't exist
-      #     git clone --branch $TEST_BRANCH $REPO temp_site || \
-      #       git clone $REPO temp_site && cd temp_site && git checkout --orphan $TEST_BRANCH
-
-      #     cd temp_site
-      #     # Remove old contents
-      #     git rm -rf . || true
-      #     cd ..
-
-      #     # Copy the new site
-      #     cp -r _site/* temp_site/
-
-      #     cd temp_site
-      #     git add .
-      #     git commit -m "Deploy test site - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to deploy"
-      #     git push origin $TEST_BRANCH --force
-
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
