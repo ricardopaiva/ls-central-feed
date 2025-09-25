@@ -125,6 +125,24 @@ def clean_text(text):
     return text
 
 
+# # Get existing hotfixes in the repository to avoid duplicates
+# def get_existing_hotfixes(hotfix_dir="_hotfixes"):
+#     """
+#     Returns a set of hotfix identifiers based on filenames
+#     inside the hotfix_dir. Assumes filenames are like:
+#     <hotfix_id>.md (e.g., KB123456.md).
+#     """
+#     hotfixes = set()
+#     if not os.path.exists(hotfix_dir):
+#         return hotfixes  # folder doesn't exist yet
+
+#     for fname in os.listdir(hotfix_dir):
+#         if fname.endswith(".md"):
+#             hotfix_id = os.path.splitext(fname)[0]  # strip ".md"
+#             hotfixes.add(hotfix_id)
+#     return hotfixes
+
+
 def generate_hotfixes_dict(content):
     # Example hotfix dict from your scraper:
     # hotfix = {
