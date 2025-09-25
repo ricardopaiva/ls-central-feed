@@ -59,8 +59,8 @@ jobs:
       - name: Show current branch
         run: git branch --show-current
 
-      - name: Show branch from GitHub context
-        run: echo "Triggered branch: ${{ github.ref }}"
+      # - name: Show branch from GitHub context
+      #   run: echo "Triggered branch: ${{ github.ref }}"
 
       - name: Show branch name
         run: echo "Branch: ${GITHUB_REF##refs/heads/}"
