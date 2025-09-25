@@ -25,6 +25,10 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -55,19 +59,9 @@ jobs:
           python scripts/generate_rss_v26.1.py
         working-directory: .  # adjust path as needed
 
-
-      - name: Show current branch
-        run: git branch --show-current
-
-      - name: Show branch from GitHub context
-        run: echo "Triggered branch: ${{ github.ref }}"
-
-      - name: Show branch name
-        run: echo "Branch: ${GITHUB_REF##refs/heads/}"
-
-
       - name: Commit new hotfix files if any, to test branch
         run: |
+          echo "Current branch: $(git branch --show-current)"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add _hotfixes/
