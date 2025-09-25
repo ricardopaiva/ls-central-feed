@@ -62,8 +62,8 @@ jobs:
       # - name: Show branch from GitHub context
       #   run: echo "Triggered branch: ${{ github.ref }}"
 
-      - name: Show branch name
-        run: echo "Branch: ${GITHUB_REF##refs/heads/}"
+      # - name: Show branch name
+      #   run: echo "Branch: ${GITHUB_REF##refs/heads/}"
 
 
       - name: Commit new hotfix files if any, to test branch
