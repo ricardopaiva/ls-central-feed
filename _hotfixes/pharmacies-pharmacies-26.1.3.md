@@ -5,7 +5,7 @@ version: "26.1.3"
 subproduct: Pharmacies
 minor_version: "26.1"
 date: 2025-08-19 00:00:00+00:00
-order: 83
+order: 84
 ---
 
 <strong>67774 Can not void transaction that contains Dispense Posted Production Order</strong>

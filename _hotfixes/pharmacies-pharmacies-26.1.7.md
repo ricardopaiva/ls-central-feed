@@ -5,7 +5,7 @@ version: "26.1.7"
 subproduct: Pharmacies
 minor_version: "26.1"
 date: 2025-09-23 00:00:00+00:00
-order: 75
+order: 76
 ---
 
 <strong>69672 Customer Orders are not posted at the end of transaction</strong>

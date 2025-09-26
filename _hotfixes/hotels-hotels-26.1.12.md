@@ -5,7 +5,7 @@ version: "26.1.12"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-09-09 00:00:00+00:00
-order: 44
+order: 45
 ---
 
 <strong>70803 Reservation Number added to General Ledger entries on Statement Posting</strong>

@@ -5,7 +5,7 @@ version: "26.1.9"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-08-26 00:00:00+00:00
-order: 47
+order: 48
 ---
 
 <strong>70164 Checked in reservation remains in the arrival list till users refresh the POS page</strong>

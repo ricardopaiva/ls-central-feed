@@ -8,7 +8,7 @@ date: 2025-09-23 00:00:00+00:00
 order: 1
 ---
 
-<strong>71997 Added VAR #565</strong>
+<strong>71997 Added VAR</strong>
 <ul><li>Var was added to parameter in event <b>OnInit_OnBeforeTransDiscLoad</b> in LSC POS Transaction Events.</li></ul>
 <strong>71846 Skip filtering of the record on find record - Sales Return Order Lines</strong>
 <ul><li><b>Event OnAfterSetFilter</b> was added in page 10001344 <b>LSC Retail SRO Subform.</b></li></ul>

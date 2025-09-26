@@ -5,7 +5,7 @@ version: "26.1.5"
 subproduct: System App
 minor_version: "26.1"
 date: 2025-08-19 00:00:00+00:00
-order: 89
+order: 90
 ---
 
 <strong>69992 Focus does not go to POS after completing a purchase in a SaaS environment</strong>

@@ -5,7 +5,7 @@ version: "26.1.3"
 subproduct: Local Functionality Germany
 minor_version: "26.1"
 date: 2025-08-05 00:00:00+00:00
-order: 64
+order: 65
 ---
 
 <strong>69704 CashPointClosings do not work in Germany's Fiskaly implementation</strong>

@@ -5,7 +5,7 @@ version: "26.1.7"
 subproduct: Local Functionality N-America
 minor_version: "26.1"
 date: 2025-09-23 00:00:00+00:00
-order: 56
+order: 57
 ---
 
 <strong>71665 Details Factbox shows incorrect values when NA Tax</strong>

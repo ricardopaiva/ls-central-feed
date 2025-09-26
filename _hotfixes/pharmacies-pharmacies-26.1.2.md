@@ -5,7 +5,7 @@ version: "26.1.2"
 subproduct: Pharmacies
 minor_version: "26.1"
 date: 2025-08-12 00:00:00+00:00
-order: 85
+order: 86
 ---
 
 <strong>69619 Change the UI menus and titles to match those of LS Central</strong>

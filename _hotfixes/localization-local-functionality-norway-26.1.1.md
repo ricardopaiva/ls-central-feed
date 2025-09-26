@@ -5,7 +5,7 @@ version: "26.1.1"
 subproduct: Local Functionality Norway
 minor_version: "26.1"
 date: 2025-09-23 00:00:00+00:00
-order: 68
+order: 69
 ---
 
 <strong>71336 Norwegian receipt text partly in English</strong>

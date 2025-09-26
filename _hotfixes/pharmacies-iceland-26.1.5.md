@@ -5,7 +5,7 @@ version: "26.1.5"
 subproduct: Iceland
 minor_version: "26.1"
 date: 2025-08-12 00:00:00+00:00
-order: 80
+order: 81
 ---
 
 <strong>69515 IS Dispense changed strength on pharmacy item</strong>

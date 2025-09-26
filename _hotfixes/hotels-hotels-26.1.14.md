@@ -5,7 +5,7 @@ version: "26.1.14"
 subproduct: Hotels
 minor_version: "26.1"
 date: 2025-09-23 00:00:00+00:00
-order: 42
+order: 43
 ---
 
 <strong>71597 Can not pay folio balance after a refund transaction</strong>
