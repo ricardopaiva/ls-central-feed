@@ -1,12 +1,12 @@
 ---
-title: "Localization hotfixes - 27.0.1 Local Functionality Arabic Receipt, Release date October 28, 2025 - Hotfixes"
+title: "Localization hotfixes - 27.0.2 Local Functionality Arabic Receipt, Release date November 4, 2025 - Hotfixes"
 product: Localization
-version: "27.0.1"
+version: "27.0.2"
 subproduct: Local Functionality Arabic Receipt
 minor_version: "27.0"
-date: 2025-10-28 00:00:00+00:00
-order: 19
-guid: 70d2ddff3e040d759cc783e8b637742f1e3ba234
+date: 2025-11-04 00:00:00+00:00
+order: 14
+guid: bf6f3bda8c0a8087d863f8da44ec6a53f80831b1
 ---
 
 <strong>73140 Replace extending LSC Retail Item with Item Card</strong>
