@@ -5,7 +5,7 @@ version: "27.0.1"
 subproduct: Autotests
 minor_version: "27.0"
 date: 2025-10-18 00:00:00+00:00
-order: 11
+order: 12
 guid: 5ad892a4e2503a414b1adc06b1d30eb47f7aca73
 ---
 
