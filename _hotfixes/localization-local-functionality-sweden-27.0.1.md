@@ -5,7 +5,7 @@ version: "27.0.1"
 subproduct: Local Functionality Sweden
 minor_version: "27.0"
 date: 2025-11-18 00:00:00+00:00
-order: 42
+order: 44
 guid: 4aaede99c55ca4b389c3012c57a61c2360b071e8
 ---
 
