@@ -5,7 +5,7 @@ version: "27.0.1"
 subproduct: Local Functionality France
 minor_version: "27.0"
 date: 2025-11-04 00:00:00+00:00
-order: 50
+order: 52
 guid: 025740806ba0158a81fac2da2cbb108a0579be2e
 ---
 
