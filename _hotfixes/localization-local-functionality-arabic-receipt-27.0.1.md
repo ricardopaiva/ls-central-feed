@@ -5,7 +5,7 @@ version: "27.0.1"
 subproduct: Local Functionality Arabic Receipt
 minor_version: "27.0"
 date: 2025-10-28 00:00:00+00:00
-order: 62
+order: 64
 guid: 70d2ddff3e040d759cc783e8b637742f1e3ba234
 ---
 
