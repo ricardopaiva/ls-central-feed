@@ -5,7 +5,7 @@ version: "27.0.11"
 subproduct: Hotels
 minor_version: "27.0"
 date: 2026-01-06 00:00:00+00:00
-order: 35
+order: 37
 guid: fad700e55ee2ae47621b4600cef59696b181d91e
 ---
 
