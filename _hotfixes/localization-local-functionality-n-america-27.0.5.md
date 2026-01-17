@@ -10,12 +10,12 @@ guid: 58799ec8dc240209c895ab94187f7b537f08985d
 ---
 
 <strong>76260 Codeunit 10016656 is calculating SO prices incorrectly</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>Moved handled.</li></ul>
 <strong>76230 LSC-NA-Ecommerce-UnitPriceCalculation</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>Moved handled.</li></ul>
 <strong>75548 LSC NA - Customer Order return on a discount line does not calculate correctly</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>Moved handled.</li></ul>
 <strong>75547 LSC NA - Customer Order Posting - Transaction calculates incorrect Unit Price</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>Posted Customer Order Unit Price was fixed.</li></ul>
 <strong>69529 LSC NA - Sales tax is calculated, displayed, and posted incorrectly</strong>
 <ul><li>Details not available.</li></ul>
