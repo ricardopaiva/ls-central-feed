@@ -5,7 +5,7 @@ version: "27.0.10"
 subproduct: Pharmacies
 minor_version: "27.0"
 date: 2025-12-23 00:00:00+00:00
-order: 79
+order: 77
 guid: 423d1f7dd53819e34d8eabf75488b65639c32567
 ---
 
