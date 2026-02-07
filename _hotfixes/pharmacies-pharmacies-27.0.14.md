@@ -11,5 +11,3 @@ guid: c1925b9a0ed7817dd9d4bcdc310bdae56b370e60
 
 <strong>65331 Auto add prescription to existing order</strong>
 <ul><li>If configured, ePrescriptions are automatically added to existing prescription orders.</li><li>If there are more than one order already open, the user is prompted to select which one to combine.</li></ul>
-<strong>65332 Auto add sibling prescription to existing order</strong>
-<ul><li>Details not available.</li></ul>
