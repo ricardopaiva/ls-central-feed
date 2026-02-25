@@ -1,14 +1,14 @@
 ---
 layout: none
-permalink: /feed/system.xml
+permalink: /feed/hotels-bec.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>Hotfixes - System</title>
+  <title>Hotfixes - Hotels BEC</title>
   <link>{{ site.url }}{{ site.baseurl }}{{ fix.url }}</link>
-  <description>RSS feed for System hotfixes</description>
-  {% assign fixes = site.hotfixes | where: "product", "System" %}
+  <description>RSS feed for Hotels BEC hotfixes</description>
+  {% assign fixes = site.hotfixes | where: "product", "Hotels BEC" %}
   {% for fix in fixes %}
   <item>
     <title>{{ fix.title }}</title>

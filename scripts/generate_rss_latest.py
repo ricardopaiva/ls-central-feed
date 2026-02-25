@@ -4,7 +4,7 @@ import os
 from slugify import slugify
 import hashlib
 
-URL = "https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-27-0.htm"
+URL = "https://help.lscentral.lsretail.com/Content/Hotfixes/Hotfixes-27-1.htm"
 
 
 def parse_items(item_details_tags):
