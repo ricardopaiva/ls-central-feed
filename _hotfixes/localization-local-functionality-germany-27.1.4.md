@@ -1,12 +1,12 @@
 ---
-title: "Localization hotfixes - 27.1.3 Local Functionality Germany, Release date February 24, 2026 - Hotfixes"
+title: "Localization hotfixes - 27.1.4 Local Functionality Germany, Release date March 3, 2026 - Hotfixes"
 product: Localization
-version: "27.1.3"
+version: "27.1.4"
 subproduct: Local Functionality Germany
 minor_version: "27.1"
-date: 2026-02-24 00:00:00+00:00
-order: 22
-guid: 31eacf4741712fba880e8b3c2918b720a64a95b1
+date: 2026-03-03 00:00:00+00:00
+order: 21
+guid: 41f81eb9b0ecc3a17d8b0a095378c6d26d6c8a85
 ---
 
 <strong>77104 Finished Transactions remained ACTIVE in Fiskaly Transactions</strong>
