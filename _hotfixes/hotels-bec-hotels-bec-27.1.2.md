@@ -5,7 +5,7 @@ version: "27.1.2"
 subproduct: Hotels BEC
 minor_version: "27.1"
 date: 2026-03-03 00:00:00+00:00
-order: 19
+order: 20
 guid: 2a1bede6f87cf76978f7342ef89547ad4a84d418
 ---
 
