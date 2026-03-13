@@ -5,9 +5,9 @@ version: "27.1.2"
 subproduct: Local Functionality Norway
 minor_version: "27.1"
 date: 2026-03-03 00:00:00+00:00
-order: 28
+order: 31
 guid: 31892c2d0ed7b5de53e9bc1dd7adb9c7390c7a10
 ---
 
 <strong>78364 OPENDRAWERBLOCKSALE</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>The client session variable #OPENDRAWERBLOCKSALE is no longer supported. Use the <b>POS Drawer Card</b> setup to control this behavior.</li></ul>
