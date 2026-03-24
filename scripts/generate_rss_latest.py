@@ -48,9 +48,10 @@ def scrape_release_notes(content_div):
             elif content_tag.name == 'div' and current_product:
                 for products_subtag in content_tag.find_all(['a', 'div'], recursive=True):
                     if products_subtag.name == 'a':
-                        # current_version = extract_version(products_subtag.get_text(strip=True))
-                        current_version = products_subtag.get_text(strip=True)
-                        versions[current_version] = []
+                        # Only treat as a version header if NOT nested inside a <li>
+                        if not products_subtag.find_parent('li'):
+                            current_version = products_subtag.get_text(strip=True)
+                            versions[current_version] = []
                     elif products_subtag.name == 'div' and current_product and current_version:
                         item_details_tags = products_subtag.find_all(['h4', 'ul'], recursive=False)
                         items = parse_items(item_details_tags)
