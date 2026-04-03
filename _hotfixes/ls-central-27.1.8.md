@@ -5,7 +5,7 @@ version: "27.1.8"
 subproduct: 
 minor_version: "27.1"
 date: 2026-02-24 00:00:00+00:00
-order: 11
+order: 13
 guid: 2c4ca4e8ad23e37981eaac1a34d43dcad658b198
 ---
 
@@ -21,7 +21,7 @@ guid: 2c4ca4e8ad23e37981eaac1a34d43dcad658b198
 <ul><li><b>IsStoreHardAttributeInUse and HardAttributeMgmt</b> procedures were made public.</li></ul>
 <strong>78160 Add new integration events</strong>
 <ul><li>New events were added to <b>LSC Picking/Receiving - Post</b> and <b>LSC Picking/Receiving Confirm</b> codeunit.</li></ul>
-<strong>77916 Bonia MY - Unable to post sales invoice via warehouse shipment who linked with customer order</strong>
+<strong>77916 Bonia Unable to post sales invoice via warehouse shipment who linked with customer order</strong>
 <ul><li>Bugfix - Posting zero Amount Sales Order linked to Customer Order resulted in an error.</li></ul>
 <strong>77881 Change in Z report</strong>
 <ul><li>New event, <b>OnAfterFilterPaymEntryOnPrintXZReport</b> was added to <b>LSC POS Print Utility Impl</b> codeunit.</li></ul>

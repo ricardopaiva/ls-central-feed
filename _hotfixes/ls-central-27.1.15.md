@@ -5,13 +5,13 @@ version: "27.1.15"
 subproduct: 
 minor_version: "27.1"
 date: 2026-03-14 00:00:00+00:00
-order: 4
+order: 6
 guid: eab93a3779a34eff7a86f86b7230e0b54b130428
 ---
 
 <strong>79446 AL: Item Distribution status not working</strong>
 <ul><li>Shopify Item Push to check for Item Distribution status was fixed, only Active items are added, if not Active, then product is set as Draft or Deleted depending on the setting in Administration page.</li></ul>
-<strong>79405 Bonia MY - Unable to insert Retail Transfer Order lines after upgraded LS Central Version from 27.1.1.3155 to 27.1.10.3312</strong>
+<strong>79405 Unable to insert Retail Transfer Order lines after upgraded LS Central Version from 27.1.1.3155 to 27.1.10.3312</strong>
 <ul><li>Details not available.</li></ul>
 <strong>79380 CO Payment lines amounts in foreign currency</strong>
 <ul><li>There was an issue with how payment line in different currency than ledger entry lcy is set to are handled. By putting correct values in Amount and Amount LCY with currency code and factor. This was fixed. </li></ul>
