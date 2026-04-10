@@ -12,6 +12,6 @@ guid: 16e233d2cf24be108df99aa3fb373b4bc00aacee
 <strong>80002 LSC NA - G/L Posting Issue - Multi Currency</strong>
 <ul><li>Var keyword was added. </li></ul>
 <strong>79801 LSCNA - Bankers rounding total issue</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>Bankers rounding total issue was fixed.</li></ul>
 <strong>78568 LSC NA - Penny Rounding for Cash Customer Order Transactions</strong>
 <ul><li>Details not available.</li></ul>
