@@ -5,7 +5,7 @@ version: "27.1.7"
 subproduct: Norway
 minor_version: "27.1"
 date: 2026-04-09 00:00:00+00:00
-order: 62
+order: 68
 guid: 0f34f4e796b60ab884ac8d57db2c6ba255ffcdfe
 ---
 

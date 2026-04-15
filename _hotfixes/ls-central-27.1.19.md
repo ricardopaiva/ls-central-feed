@@ -5,7 +5,7 @@ version: "27.1.19"
 subproduct: 
 minor_version: "27.1"
 date: 2026-03-27 00:00:00+00:00
-order: 2
+order: 4
 guid: 9a3fd4ca9047f49d5be64be768fd6ecb2be9a5a1
 ---
 
@@ -35,7 +35,7 @@ guid: 9a3fd4ca9047f49d5be64be768fd6ecb2be9a5a1
 <strong>79736 EventSubscriber needed for LSC POS Transaction Impl Codeunit LS Central OnPrem Version 27.1</strong>
 <ul><li>New events <b>OnBeforeTempPOSTransInsert</b> and <b>OnBeforeProcessSalesPerson</b> were added to <b>LSC POS Transaction Impl</b> codeunit.</li></ul>
 <strong>79731 ECOM 26.1 FactBox & rounding issue</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>Incorrect tax amount was fixed in Posted Customer Order FactBox.         │</li><li>Invoice rounding amount on Customer Order returns was fixed. </li></ul>
 <strong>79726 Wrong "Status Difference" = "Not ordered" in "Retail Receiving" Document when using variants</strong>
 <ul><li><b>Status Difference</b> was fixed in Retail Receiving document when using variants.</li></ul>
 <strong>79709 Price Update not rounded correctly in Sales Price List Line</strong>
