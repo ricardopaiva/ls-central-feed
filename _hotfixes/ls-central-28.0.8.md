@@ -1,12 +1,12 @@
 ---
-title: "Autotests hotfixes - 28.0.4  Autotests, Release date April 21, 2026 - Hotfixes"
-product: Autotests
-version: "28.0.4"
-subproduct: Autotests
+title: "LS Central hotfixes - 28.0.8, Release date April 28, 2026 - Hotfixes"
+product: LS Central
+version: "28.0.8"
+subproduct: 
 minor_version: "28.0"
-date: 2026-04-21 00:00:00+00:00
-order: 11
-guid: fe8584db2218b348c0c6d2c68340ba57a63ee574
+date: 2026-04-28 00:00:00+00:00
+order: 1
+guid: d852baac055c8ec722213661ab720623c4f70fff
 ---
 
 <strong>80953 Error when upgrading to version 28.0</strong>
