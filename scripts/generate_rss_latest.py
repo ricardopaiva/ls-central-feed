@@ -21,7 +21,7 @@ def parse_items(item_details_tags):
             items.append(current_item)
 
         elif item_details_tag.name == 'ul':
-            details = item_details_tag.select("li")
+            details = item_details_tag.find_all("li", recursive=False)
             for detail in details:
                 current_item_details.append(detail)
 
