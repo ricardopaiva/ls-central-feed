@@ -20,4 +20,4 @@ guid: ebbd1ebf7e2a2e952e4f429bea16402a14ea0b61
 <strong>80082 LSC NA - Issue with the incorrect tax amounts</strong>
 <ul><li>Details not available.</li></ul>
 <strong>79812 Fixed "LSC Delete Logs" job when deleting actions/preactions for subjobs with remote sources #638</strong>
-<ul><li>The Delete Logs job now considers the <b>Last Source Counter</b> of the current Distribution Location.<ul><li>It uses this value to filter and delete records.</li></ul></li><li>It uses this value to filter and delete records.</li></ul>
+<ul><li>The Delete Logs job now considers the <b>Last Source Counter</b> of the current Distribution Location.<ul><li>It uses this value to filter and delete records.</li></ul></li></ul>

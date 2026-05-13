@@ -12,19 +12,11 @@ guid: bd2be89a88821c46fcdd6864aa0f95aa32506ddb
 <strong>80633 Unable to create open statement (Document No length more than 10) version 27.1.21.3433</strong>
 <ul><li>There was an issue introduced in v27.1.21 that would not allow the user to create an open statement under certain circumstances, when the Statement No. had more than 10 characters. This was fixed. </li></ul>
 <strong>80612 New publishers in Shopify Integration</strong>
-<ul><li>New order create events were added from Shopify:<ul><li>OnBeforeInsertCOShippingLineTemp</li><li>OnBeforeInsertTotalDiscountLineTemp</li><li>OnBeforeInsertCODiscountLineTemp</li><li>OnBeforeInsertCODPaymentTemp.</li></ul></li><li>OnBeforeInsertCOShippingLineTemp</li><li>OnBeforeInsertTotalDiscountLineTemp</li><li>OnBeforeInsertCODiscountLineTemp</li><li>OnBeforeInsertCODPaymentTemp.</li></ul>
+<ul><li>New order create events were added from Shopify:<ul><li>OnBeforeInsertCOShippingLineTemp</li><li>OnBeforeInsertTotalDiscountLineTemp</li><li>OnBeforeInsertCODiscountLineTemp</li><li>OnBeforeInsertCODPaymentTemp.</li></ul></li></ul>
 <strong>80598 Move The Waiver Report within the Repo to General Reports directory so its available to the user in runtime</strong>
 <ul><li>The Waiver Report was added to the Repo in the General Reports directory.</li></ul>
 <strong>80484 Make AssignMemberAttributes procedures public</strong>
-<ul><li>Two procedures were made public on codeunit <b>LSC Member Attribute Mgmt</b> (99009002) to allow external extensions to assign member attributes:</li><li value="1"><b>AssignAccountAttributeValues</b>
-<ul>
-<li>assigns attribute values for a member account.</li>
-</ul>
-</li><li>assigns attribute values for a member account.</li><li value="2"><b>AssignContactAttributeValues</b>
-<ul>
-<li>assigns attribute values for a member contact.</li>
-</ul>
-</li><li>assigns attribute values for a member contact.</li></ul>
+<ul><li>Two procedures were made public on codeunit <b>LSC Member Attribute Mgmt</b> (99009002) to allow external extensions to assign member attributes:</li></ul>
 <strong>80385 Skip barcode creation</strong>
 <ul><li><b>OnBeforeAssignBarcode_OnCreateVariantAction</b> integration event was added on page LSC Item Variant Suggestion, allowing extensions to skip automatic barcode creation during the Create Variants action.</li></ul>
 <strong>80374 Tanweer_31.03.2026 #642 Retail Message Panel Control CU</strong>
@@ -107,67 +99,7 @@ guid: bd2be89a88821c46fcdd6864aa0f95aa32506ddb
 </ul>
 </li>
 </ul>
-</li><li><b>LSC CO Customer Info Panel</b>
-<ul>
-<li>OnAfterButtonPress_OnRun</li>
-</ul>
-</li><li>OnAfterButtonPress_OnRun</li><li><b>LSC CO Utility</b>
-<ul>
-<li>OnAfterCustomerOrderPayment</li>
-<li>OnAfterInsertCOLines_CreateCOTempFromPOSTransaction</li>
-</ul>
-</li><li>OnAfterCustomerOrderPayment</li><li>OnAfterInsertCOLines_CreateCOTempFromPOSTransaction</li><li><b>LSC CO Create Panel</b>
-<ul>
-<li>OnBeforeEditMemberContact</li>
-<li>OnBeforeModifyDataBuffer_OnLookupResult</li>
-</ul>
-</li><li>OnBeforeEditMemberContact</li><li>OnBeforeModifyDataBuffer_OnLookupResult</li><li><b>LSC CO Sched. Jobs</b>
-<ul>
-<li>OnBeforePostSalesOrders</li>
-</ul>
-</li><li>OnBeforePostSalesOrders</li><li><b>LSC CO Web Service Functions</b>
-<ul>
-<li>OnBeforeInsertCOHeaderTemp_OnReserveOrderLines</li>
-<li>OnBeforeItemTrackingValidations_OnSetupItemAndDiscountLines</li>
-</ul>
-</li><li>OnBeforeInsertCOHeaderTemp_OnReserveOrderLines</li><li>OnBeforeItemTrackingValidations_OnSetupItemAndDiscountLines</li><li><b>LSC CO eCommerce Mgt</b>
-<ul>
-<li>OnAfterCreateTransaction</li>
-</ul>
-</li><li>OnAfterCreateTransaction</li><li><b>LSC Dashboard Alarms Public (new codeunit)</b>
-<ul>
-<li>OnAfterCheckRoleStoreAlerts</li>
-</ul>
-</li><li>OnAfterCheckRoleStoreAlerts</li><li><b>LSC Item Finder Public (new codeunit)</b>
-<ul>
-<li>OnBeforeProcessItemFinderSetup_OnFindItemSet</li>
-</ul>
-</li><li>OnBeforeProcessItemFinderSetup_OnFindItemSet</li><li><b>LSC Retail Purchase Order Ext.</b>
-<ul>
-<li>OnBeforePurchaseHeaderOrderAddressCodeOnAfterValidateEvent</li>
-</ul>
-</li><li>OnBeforePurchaseHeaderOrderAddressCodeOnAfterValidateEvent</li><li><b>LSC Retail Sales Order Ext.</b>
-<ul>
-<li>OnBeforeOnAfterFinalizePosting</li>
-</ul>
-</li><li>OnBeforeOnAfterFinalizePosting</li><li><b>LSC Retail ICT Processes</b>
-<ul>
-<li>OnBeforeAddItemTracking</li>
-<li>OnBeforeProcessICTHeader_OnProcessICTDocSplit</li>
-</ul>
-</li><li>OnBeforeAddItemTracking</li><li>OnBeforeProcessICTHeader_OnProcessICTDocSplit</li><li><b>LSCCreateNewCardForContUtils</b>
-<ul>
-<li>OnBeforeInsertMemberCard_OnRunRequest</li>
-</ul>
-</li><li>OnBeforeInsertMemberCard_OnRunRequest</li><li><b>LSCGetMemberInfoForPosUtils</b>
-<ul>
-<li>OnBeforeGetMemberCouponList_OnRunRequest</li>
-</ul>
-</li><li>OnBeforeGetMemberCouponList_OnRunRequest</li><li><b>LSCGetDataEntryUtils</b>
-<ul>
-<li>OnBeforeRunRequest</li>
-</ul>
-</li><li>OnBeforeRunRequest</li><li>Modified Event<ul><li><b>LSC CO Web Service Functions</b><ul><li>OnBeforeShouldCreateSalesorderCheck - added RunFromScheduler: Boolean parameter.</li></ul></li></ul></li><li><b>LSC CO Web Service Functions</b><ul><li>OnBeforeShouldCreateSalesorderCheck - added RunFromScheduler: Boolean parameter.</li></ul></li><li>OnBeforeShouldCreateSalesorderCheck - added RunFromScheduler: Boolean parameter.</li></ul>
+</li><li>Modified Event<ul><li><b>LSC CO Web Service Functions</b><ul><li>OnBeforeShouldCreateSalesorderCheck - added RunFromScheduler: Boolean parameter.</li></ul></li></ul></li></ul>
 <strong>80372 Adding Event OnBeforeValidateJournalLine in Point Jnl.-Check Line</strong>
 <ul><li>An event was added, <b>OnBeforeValidateJournalLine</b> in codenit Point Jnl.-Check Line.</li></ul>
 <strong>80357 AL: Issue with translations</strong>

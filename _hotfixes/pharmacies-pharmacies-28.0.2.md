@@ -14,7 +14,7 @@ guid: 71d4fa645efe307f5fc12c5ed32b8a85f3721aa1
 <ul>
 <li><b>OnBeforeMapLogEntry Event Publisher</b> was added on Event Log Utility Codeunit.</li>
 </ul>
-</li><li><b>OnBeforeMapLogEntry Event Publisher</b> was added on Event Log Utility Codeunit.</li></ul>
+</li></ul>
 <strong>79662 Business Central 27 is Missing Pharmacy NO Traces</strong>
 <ul><li>Details not available.</li></ul>
 <strong>79780 NMD-UAT | Agent Functionality does not work on BC27</strong>
