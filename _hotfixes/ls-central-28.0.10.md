@@ -5,11 +5,11 @@ version: "28.0.10"
 subproduct: 
 minor_version: "28.0"
 date: 2026-05-06 00:00:00+00:00
-order: 1
+order: 2
 guid: 5210892a13fd7444eac70a7a49b1355bbd295113
 ---
 
-<strong>81725 Update CO eCommerce Mgt codeunit with new event OnBeforeCheckPreApprovedAmount #65</strong>
+<strong>81725 Update CO eCommerce Mgt codeunit with new event OnBeforeCheckPreApprovedAmount</strong>
 <ul><li>New event, <b>OnBeforeCheckPreApprovedAmount</b> was added in CU CO eCommerce Mgt.</li></ul>
 <strong>81577 License Manager Warning Mismatch</strong>
 <ul><li>A message when checking the account/license account was removed.</li></ul>
