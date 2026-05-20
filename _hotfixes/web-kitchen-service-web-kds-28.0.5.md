@@ -1,12 +1,12 @@
 ---
-title: "Web Kitchen Service hotfixes - 28.0.4 Web KDS, Release date May 12, 2026 - Hotfixes"
+title: "Web Kitchen Service hotfixes - 28.0.5 Web KDS, Release date May 19, 2026 - Hotfixes"
 product: Web Kitchen Service
-version: "28.0.4"
+version: "28.0.5"
 subproduct: Web KDS
 minor_version: "28.0"
-date: 2026-05-12 00:00:00+00:00
-order: 73
-guid: 685ff0bdb5c9eba870a3f2430f1046db4d2eac2c
+date: 2026-05-19 00:00:00+00:00
+order: 72
+guid: 3161796fe0079881db14d2d957e4326e60af20fd
 ---
 
 <strong>79538 Removing fallback to files when no connection is configured</strong>
@@ -35,3 +35,7 @@ guid: 685ff0bdb5c9eba870a3f2430f1046db4d2eac2c
 <ul><li>Details not available.</li></ul>
 <strong>82004 When a Order with a Item and a Deal is sold KDS it is printing the Deal even though it not routed</strong>
 <ul><li>It should only print the items that are routed even when the sale has a Deal.</li></ul>
+<strong>82047 WEB KDS password encryption issues</strong>
+<ul><li>There was an issue with Web KDS <b>Test and Save Connection</b> failing with a wrong-credentials error when the saved connection had password encryption enabled. This was fixed. </li></ul>
+<strong>82083 Expeditor only show item deals when Show Deal is on</strong>
+<ul><li>The Show Deal Header was fixed. </li></ul>
