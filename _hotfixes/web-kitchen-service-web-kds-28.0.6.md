@@ -1,12 +1,12 @@
 ---
-title: "Web Kitchen Service hotfixes - 28.0.4 Web KDS, Release date May 12, 2026 - Hotfixes"
+title: "Web Kitchen Service hotfixes - 28.0.6 Web KDS, Release date May 26, 2026 - Hotfixes"
 product: Web Kitchen Service
-version: "28.0.4"
+version: "28.0.6"
 subproduct: Web KDS
 minor_version: "28.0"
-date: 2026-05-12 00:00:00+00:00
-order: 87
-guid: 685ff0bdb5c9eba870a3f2430f1046db4d2eac2c
+date: 2026-05-26 00:00:00+00:00
+order: 85
+guid: 8330d9d045ec4dad42b93eb396b28a7a121427f2
 ---
 
 <strong>79538 Removing fallback to files when no connection is configured</strong>
@@ -35,3 +35,19 @@ guid: 685ff0bdb5c9eba870a3f2430f1046db4d2eac2c
 <ul><li>Details not available.</li></ul>
 <strong>82004 When a Order with a Item and a Deal is sold KDS it is printing the Deal even though it not routed</strong>
 <ul><li>It should only print the items that are routed even when the sale has a Deal.</li></ul>
+<strong>82047 WEB KDS password encryption issues</strong>
+<ul><li>There was an issue with Web KDS <b>Test and Save Connection</b> failing with a wrong-credentials error when the saved connection had password encryption enabled. This was fixed. </li></ul>
+<strong>82083 Expeditor only show item deals when Show Deal is on</strong>
+<ul><li>The Show Deal Header was fixed. </li></ul>
+<strong>82100 Items that are part of a deal, are not being color updated when they are bumped or started on the Chit/Expeditor</strong>
+<ul><li>The Chit Lines are color updated.</li></ul>
+<strong>82448 Web KDS - Captions missing on CHIT</strong>
+<ul><li>
+<p>Web KDS chit header and footer fields now display the configured caption (or field name) as a prefix in front of the value, restoring the pre-27.1.14 behavior.</p>
+<ul>
+<li>Caption rendering was lost when the chit margin component was rewritten in an internal refactor. Header and footer chit fields (for example "Bestilt:", "Afhentes:") rendered only the raw value with no label, making it difficult for kitchen staff to know what each value represented.</li>
+<li>ChitMargins.vue now prepends the field caption when set, falls back to the field name when caption is empty, and renders the value alone when both are empty.</li>
+<li>Caption text is HTML-escaped to prevent injection.</li>
+<li>All Web KDS users using the Chit layout with captioned header or footer fields. <ul><li>The Card and Line layouts and the comment field within the chit are unaffected.</li></ul></li>
+</ul>
+</li></ul>
