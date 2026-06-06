@@ -1,12 +1,12 @@
 ---
-title: "Web Kitchen Service hotfixes - 28.0.6 Web KDS, Release date May 26, 2026 - Hotfixes"
+title: "Web Kitchen Service hotfixes - 28.0.8 Web KDS, Release date June 2, 2026 - Hotfixes"
 product: Web Kitchen Service
-version: "28.0.6"
+version: "28.0.8"
 subproduct: Web KDS
 minor_version: "28.0"
-date: 2026-05-26 00:00:00+00:00
-order: 100
-guid: 8330d9d045ec4dad42b93eb396b28a7a121427f2
+date: 2026-06-02 00:00:00+00:00
+order: 98
+guid: be073eb60cdc2e0ed3e69201ecd3568f8c079ae5
 ---
 
 <strong>79538 Removing fallback to files when no connection is configured</strong>
@@ -31,6 +31,8 @@ guid: 8330d9d045ec4dad42b93eb396b28a7a121427f2
 <ul><li>Using reconnection from the SignalR.</li></ul>
 <strong>81363 Remove need of CTRL+F5 when updating WebKDS</strong>
 <ul><li>The need to do a CTRL+F5 on WebKDS after update was removed. </li></ul>
+<strong>81382 Making a better SetWebKDSRouting</strong>
+<ul><li>Making the <b>SetWebKDSRouting</b> give us errors by order and not failling the whole order when one order on the batch fails.</li></ul>
 <strong>81423 Adding KeepAlive on SignalR</strong>
 <ul><li>Details not available.</li></ul>
 <strong>82004 When a Order with a Item and a Deal is sold KDS it is printing the Deal even though it not routed</strong>
@@ -51,3 +53,7 @@ guid: 8330d9d045ec4dad42b93eb396b28a7a121427f2
 <li>All Web KDS users using the Chit layout with captioned header or footer fields. <ul><li>The Card and Line layouts and the comment field within the chit are unaffected.</li></ul></li>
 </ul>
 </li></ul>
+<strong>82586 Toggle button to turn on / off Web KDS server</strong>
+<ul><li>The KDS Server toggle switch was fixed, to always appear in the ON state regardless of actual server status.<ul><li>The checkServer() function in Admin.vue was reading the entire IsServiceConfiguredResponse object instead of its isServiceRunning boolean property.</li><li>Since any JavaScript object is truthy, the toggle was permanently stuck in the ON position.</li><li>The fix correctly reads response.data.isServiceRunning.</li></ul></li><li>All Web KDS users who need to start/stop the KDS server from the Settings page.</li></ul>
+<strong>82871 [CRONUS] Undo and Undo List Button Operation</strong>
+<ul><li>The Undo List button was doing nothing on the Web KDS Expeditor station, this was fixed.</li><li>On Expeditor (Chit) stations the Undo List operation raised its open-modal event from the Chits component, but the event was not forwarded to the parent, so the popup never opened.</li><li>The Chits component now declares and StationBody now forwards the undo-list event, matching preparation-station behavior.</li><li>The popup now opens on the Expeditor and lists the previously-bumped orders that can be undone. Prep/line/chit-prep stations are unaffected; no server-side or data changes.</li></ul>
