@@ -10,4 +10,4 @@ guid: 8a3385d7760045e2d9adee3bd5d2b1744df496a7
 ---
 
 <strong>82806 Problem with Swedish fiscal unit i version 28.0</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>Run a Swedish POS terminal that has no fiscal control unit again.</li><li>When the Fiscal Interface Setup uses Register Type None, the POS now finalizes receipts normally instead of stopping with a <b>Fiscal setup not found</b> error.</li><li>Terminals set up with a real fiscal unit (Type A or Type C) work exactly as before.</li></ul>
