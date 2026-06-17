@@ -1,12 +1,12 @@
 ---
-title: "Hardware Station hotfixes - 28.0.7, Release date June 2 2026 - Hotfixes"
+title: "Hardware Station hotfixes - 28.0.8, Release date June 16 2026 - Hotfixes"
 product: Hardware Station
-version: "28.0.7"
+version: "28.0.8"
 subproduct: 
 minor_version: "28.0"
-date: 2026-06-17 03:51:32.382536+00:00
-order: 39
-guid: 498815a7bdf526619ca29f6c8c20a531a0ff224d
+date: 2026-06-17 03:51:32.382424+00:00
+order: 38
+guid: ea8011b908f01dae697852ce9d63eb80ef93dce9
 ---
 
 <strong>80494 Revert custom paper size behavior when width or height are zero</strong>
@@ -17,5 +17,7 @@ guid: 498815a7bdf526619ca29f6c8c20a531a0ff224d
 <ul><li>Normalized EPC values in HWST to always return in uppercase, including EPCs generated through ConvertToEPC, ensuring consistent handling across RFID and manual conversion flows.</li></ul>
 <strong>82446 Unable to configure RFID with Nordic Sampo</strong>
 <ul><li>An error was fixed, when loading Nordic ID Sampo RFID devices.</li></ul>
+<strong>82599 HardwareStation has problem with Adyen Cloud</strong>
+<ul><li>Fixed an issue when updating from v26 would break EFT devices with sensitive data settings.</li></ul>
 <strong>82794 LS Central 28.0 – POS Scale not loaded / “Device [undefined] of type [Scale] not loaded” with Live Weight enabled</strong>
 <ul><li>Details not available.</li></ul>

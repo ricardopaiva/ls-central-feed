@@ -1,12 +1,12 @@
 ---
-title: "Web Kitchen Service hotfixes - 28.0.8 Web KDS, Release date June 2, 2026 - Hotfixes"
+title: "Web Kitchen Service hotfixes - 28.0.9 Web KDS, Release date June 16, 2026 - Hotfixes"
 product: Web Kitchen Service
-version: "28.0.8"
+version: "28.0.9"
 subproduct: Web KDS
 minor_version: "28.0"
-date: 2026-06-02 00:00:00+00:00
-order: 113
-guid: be073eb60cdc2e0ed3e69201ecd3568f8c079ae5
+date: 2026-06-16 00:00:00+00:00
+order: 112
+guid: e7b56baad52e55accac73ce1ed11e9dfb9b5806b
 ---
 
 <strong>79538 Removing fallback to files when no connection is configured</strong>
@@ -57,3 +57,5 @@ guid: be073eb60cdc2e0ed3e69201ecd3568f8c079ae5
 <ul><li>The KDS Server toggle switch was fixed, to always appear in the ON state regardless of actual server status.<ul><li>The checkServer() function in Admin.vue was reading the entire IsServiceConfiguredResponse object instead of its isServiceRunning boolean property.</li><li>Since any JavaScript object is truthy, the toggle was permanently stuck in the ON position.</li><li>The fix correctly reads response.data.isServiceRunning.</li></ul></li><li>All Web KDS users who need to start/stop the KDS server from the Settings page.</li></ul>
 <strong>82871 [CRONUS] Undo and Undo List Button Operation</strong>
 <ul><li>The Undo List button was doing nothing on the Web KDS Expeditor station, this was fixed.</li><li>On Expeditor (Chit) stations the Undo List operation raised its open-modal event from the Chits component, but the event was not forwarded to the parent, so the popup never opened.</li><li>The Chits component now declares and StationBody now forwards the undo-list event, matching preparation-station behavior.</li><li>The popup now opens on the Expeditor and lists the previously-bumped orders that can be undone. Prep/line/chit-prep stations are unaffected; no server-side or data changes.</li></ul>
+<strong>82995 Upcoming orders are not showing the orders</strong>
+<ul><li>Fixed Upcoming Orders stations showing nothing on connect, and future (held) orders appearing prematurely on regular stations.</li><li>The station connect path now matches the periodic refresh: an Upcoming Orders station shows the held/future orders routed to it, and prep-line, prep-chit, expeditor, and customer-facing stations no longer receive future orders until they are due.</li></ul>

@@ -5,7 +5,7 @@ version: "28.0.18"
 subproduct: 
 minor_version: "28.0"
 date: 2026-06-02 00:00:00+00:00
-order: 1
+order: 2
 guid: 0522f9f37aab8affdd68d179f50c8a7b723a0152
 ---
 
@@ -28,7 +28,7 @@ guid: 0522f9f37aab8affdd68d179f50c8a7b723a0152
 <strong>82704 Error when try to open Options of the attributes</strong>
 <ul><li>An error was fixed, when opening the options of an attribute.</li></ul>
 <strong>82627 EFT Dialog causes "client callback after write transaction started"</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>Card payments through the EFT dialog now run cleanly to the end.</li><li>Previously, finishing a card payment could trigger a runtime error on the POS and add unnecessary processing overhead. Payments now complete reliably and a little faster.</li></ul>
 <strong>82619 Issue with Incorrect Discount Calculation in Mix & Match Offer</strong>
 <ul><li>Mix &amp; Match Offer is Calculated was fixed, to handle combination of Print bill and split line.</li></ul>
 <strong>82364 Retail Item Registration — "Sales Price Incl. VAT" Populated with Ex-VAT Price</strong>
