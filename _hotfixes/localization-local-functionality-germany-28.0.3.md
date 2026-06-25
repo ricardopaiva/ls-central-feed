@@ -5,7 +5,7 @@ version: "28.0.3"
 subproduct: Local Functionality Germany
 minor_version: "28.0"
 date: 2026-05-12 00:00:00+00:00
-order: 70
+order: 75
 guid: 5588903a7db457618953db5cc59861385b80fa0c
 ---
 

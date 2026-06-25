@@ -5,7 +5,7 @@ version: "28.0.8"
 subproduct: Norway
 minor_version: "28.0"
 date: 2026-06-09 00:00:00+00:00
-order: 81
+order: 90
 guid: 94208c6c6a8605ff408e5217cc4df8d40f67de71
 ---
 
