@@ -5,7 +5,7 @@ version: "28.0.1"
 subproduct: Local Functionality Sweden
 minor_version: "28.0"
 date: 2026-06-02 00:00:00+00:00
-order: 81
+order: 85
 guid: 8a3385d7760045e2d9adee3bd5d2b1744df496a7
 ---
 
