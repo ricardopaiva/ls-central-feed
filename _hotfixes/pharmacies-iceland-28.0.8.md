@@ -5,7 +5,7 @@ version: "28.0.8"
 subproduct: Iceland
 minor_version: "28.0"
 date: 2026-06-16 00:00:00+00:00
-order: 94
+order: 89
 guid: a8094783afa061e6ea469905019499b10af5c69a
 ---
 

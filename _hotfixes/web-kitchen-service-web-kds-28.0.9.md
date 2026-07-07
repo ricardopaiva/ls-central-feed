@@ -5,7 +5,7 @@ version: "28.0.9"
 subproduct: Web KDS
 minor_version: "28.0"
 date: 2026-06-16 00:00:00+00:00
-order: 131
+order: 124
 guid: e7b56baad52e55accac73ce1ed11e9dfb9b5806b
 ---
 
