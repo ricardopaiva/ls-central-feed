@@ -5,7 +5,7 @@ version: "28.0.4"
 subproduct: Pharmacies
 minor_version: "28.0"
 date: 2026-05-06 00:00:00+00:00
-order: 110
+order: 114
 guid: 67004881e2e6e8f553a376162aab01581dc69ba1
 ---
 
