@@ -5,7 +5,7 @@ version: "28.0.1"
 subproduct: Local Functionality Spain
 minor_version: "28.0"
 date: 2026-06-23 00:00:00+00:00
-order: 89
+order: 94
 guid: 8743e548dce1136c9bdca7222da8b6cd15fe9a8c
 ---
 

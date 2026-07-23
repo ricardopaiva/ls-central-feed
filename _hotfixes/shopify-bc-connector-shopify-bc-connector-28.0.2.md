@@ -5,7 +5,7 @@ version: "28.0.2"
 subproduct: Shopify BC Connector
 minor_version: "28.0"
 date: 2026-07-07 00:00:00+00:00
-order: 135
+order: 143
 guid: f98624e27e2ca66b83d8bd0b0284a3aba8bd7347
 ---
 

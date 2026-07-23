@@ -5,7 +5,7 @@ version: "28.0.1"
 subproduct: German language for LS Central (Germany)
 minor_version: "28.0"
 date: 2026-07-14 00:00:00+00:00
-order: 94
+order: 99
 guid: 1c7f17a707e362460d906fb5badfe12e047fc090
 ---
 
