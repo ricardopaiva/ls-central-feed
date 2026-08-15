@@ -4,7 +4,7 @@ product: Hardware Station
 version: "28.0.8"
 subproduct: 
 minor_version: "28.0"
-date: 2026-08-14 01:41:30.252668+00:00
+date: 2026-08-15 01:02:22.671174+00:00
 order: 51
 guid: ea8011b908f01dae697852ce9d63eb80ef93dce9
 ---
