@@ -5,7 +5,7 @@ version: "28.0.9"
 subproduct: Self-Checkout Connector
 minor_version: "28.0"
 date: 2026-08-04 00:00:00+00:00
-order: 151
+order: 154
 guid: 07f72593321c363182286f09167ab099e0c72e68
 ---
 
