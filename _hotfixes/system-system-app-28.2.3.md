@@ -5,7 +5,7 @@ version: "28.2.3"
 subproduct: System App
 minor_version: "28.2"
 date: 2026-08-25 00:00:00+00:00
-order: 24
+order: 25
 guid: ec75ccf726f2a21052a7566aca7f30d9e91fd9e7
 ---
 
