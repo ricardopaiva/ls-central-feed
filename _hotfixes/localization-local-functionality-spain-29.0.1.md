@@ -5,7 +5,7 @@ version: "29.0.1"
 subproduct: Local Functionality Spain
 minor_version: "29.0"
 date: 2026-10-28 00:00:00+00:00
-order: 1
+order: 3
 guid: 7eb7b9a34a5568a974a25ae856c044d257d1e67d
 ---
 
