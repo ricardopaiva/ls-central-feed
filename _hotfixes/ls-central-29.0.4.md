@@ -5,7 +5,7 @@ version: "29.0.4"
 subproduct: 
 minor_version: "29.0"
 date: 2026-11-03 00:00:00+00:00
-order: 1
+order: 2
 guid: d95a32f66128355d51e821a0d24970d2f1950cbf
 ---
 
@@ -21,7 +21,7 @@ guid: d95a32f66128355d51e821a0d24970d2f1950cbf
 <li>None.</li>
 </ul>
 </li></ul>
-<strong>90901 URGENT_TOPAS_LS Central for Restaurant POS _ Can't not Printing multiple Kitchen OPOS slips after Send to Kitchen</strong>
+<strong>90901 Can not print multiple Kitchen slips after send to kitchen</strong>
 <ul><li>Kitchen orders print every configured copy again. If you list the same printer several times in the hardware profile for a role and sub role, each kitchen order prints one slip per line, as it did in version 27. Since 28.1, only one slip printed. Different printers under the same sub role each print a slip too.</li><li><b>Action required by partners:</b>
 <ul>
 <li>None</li>
