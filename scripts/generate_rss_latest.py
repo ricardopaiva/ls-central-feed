@@ -123,6 +123,37 @@ def clean_text(text):
     return text
 
 
+NESTED_BULLETS = ["◦", "▪"]  # depth 2: white bullet, depth 3+: small black square
+
+
+def normalize_html(html):
+    """Keep each list item's HTML on a single line (no stray whitespace)."""
+    # ASCII whitespace only: \s would also strip the em-space indent used for nested items
+    html = re.sub(r"[ \t\r\n]*\n[ \t\r\n]*", " ", html)
+    html = re.sub(r"(<li[^>]*>)[ \t\r\n]+", r"\1", html)
+    html = re.sub(r"[ \t\r\n]+(</li>)", r"\1", html)
+    return html
+
+
+def flatten_li(li, depth=1):
+    """Flatten nested lists into sibling <li> items, marking the depth in the text.
+
+    The Teams card turns '<ul><li>' / '</li></ul>' into markdown bullets but
+    cannot handle nested lists, so nested items are emitted as flat <li> items
+    prefixed with an indent and a different bullet (depth 2: ◦, depth 3+: ▪).
+    """
+    children = []
+    for nested in li.find_all(['ul', 'ol'], recursive=False):
+        nested.extract()
+        for child in nested.find_all('li', recursive=False):
+            children.extend(flatten_li(child, depth + 1))
+    if depth > 1 and li.get_text(strip=True):
+        marker = " " * 2 * (depth - 1) + NESTED_BULLETS[min(depth, 3) - 2] + " "
+        li.insert(0, marker)
+    parent = normalize_html(str(li))
+    return ([parent] if li.get_text(strip=True) else []) + children
+
+
 def generate_hotfixes(content):
     hotfixes = []
     sort_id = 0
@@ -137,7 +168,7 @@ def generate_hotfixes(content):
                 for item_title, details in items:
                     item_text = f"<strong>{item_title}</strong>"
                     content_items.append(f"{item_text}")
-                    items_array = [f"{detail}" for detail in details]
+                    items_array = [html for detail in details for html in flatten_li(detail)]
                     content_items.append(f"<ul>" + "".join(items_array) + "</ul>")
             content = "\n".join(content_items)
 
