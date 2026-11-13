@@ -1,3 +1,5 @@
+import re
+from datetime import datetime, timezone
 import requests
 from bs4 import BeautifulSoup
 import os
@@ -68,8 +70,6 @@ def extract_release_date(version_str):
     '26.1.0, Release date July 8, 2025'
     Returns a timezone-aware datetime object. If not found, returns current UTC time.
     """
-    import re
-    from datetime import datetime, timezone
     match = re.search(r"Release date ([A-Za-z]+ \d{1,2}, \d{4})", version_str)
     if match:
         date_str = match.group(1)
@@ -87,7 +87,6 @@ def extract_version(version_str: str) -> str:
     Returns the version as a string (e.g., '26.1.0').
     If not found, returns an empty string.
     """
-    import re
     match = re.match(r"^([\d\.]+)", version_str.strip())
     if match:
         return match.group(1)
@@ -101,7 +100,6 @@ def extract_sub_product_from_version(version_str: str) -> str:
     Returns the sub product as a string (e.g., 'Local Functionality Germany').
     If not found, returns an empty string.
     """
-    import re
     match = re.match(r"^[\d\.]+\s+(.*?)\s*,\s*Release date", version_str.strip())
     if match:
         return match.group(1).strip()
