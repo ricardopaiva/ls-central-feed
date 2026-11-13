@@ -5,9 +5,9 @@ version: "29.0.1"
 subproduct: Local Functionality India
 minor_version: "29.0"
 date: 2026-11-03 00:00:00+00:00
-order: 10
+order: 14
 guid: 16ed6039bc5cb453f09080ff8e8489f08f79d96a
 ---
 
 <strong>89287 Urgent: Incorrect GST Calculation in Mix & Match Offer – LS Central 27 (Hypermax City)</strong>
-<ul><li>Details not available.</li></ul>
+<ul><li>GST now adds up correctly on India sales entries when identical POS lines are merged during posting, for example with a Discount Offer or Mix &amp; Match. Before, the merged entry carried the GST of only one unit, so a sale of two items showed half the tax (6.10 instead of 12.20).</li></ul>

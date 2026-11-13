@@ -10,4 +10,4 @@ guid: 66889a064dfe750aca92639262d4c55e4399fded
 ---
 
 <strong>88205 POS Currency Utility shows 0.00 for all currency conversions after BC 28.4 upgrade</strong>
-<ul><li>You can now convert amounts correctly in the POS Currency Utility panel.</li><li>Previously, opening the panel or entering an amount showed 0.00 for every listed currency, regardless of whether the sale was in the store's local currency or a foreign currency.</li><li>Each currency row now displays the correctly converted, non-zero amount using the current exchange rate.</li><li><b>Action required by partners</b>:<ul><li>None.</li></ul></li></ul>
+<ul><li>You can now convert amounts correctly in the POS Currency Utility panel.</li><li>Previously, opening the panel or entering an amount showed 0.00 for every listed currency, regardless of whether the sale was in the store's local currency or a foreign currency.</li><li>Each currency row now displays the correctly converted, non-zero amount using the current exchange rate.</li><li><b>Action required by partners</b>:</li><li>  ◦ None.</li></ul>
