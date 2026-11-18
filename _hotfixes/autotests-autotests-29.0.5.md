@@ -5,7 +5,7 @@ version: "29.0.5"
 subproduct: Autotests
 minor_version: "29.0"
 date: 2026-11-12 00:00:00+00:00
-order: 6
+order: 8
 guid: 77a6eda6a8aba1b8c8d6019611a3cf8f61c409ce
 ---
 
