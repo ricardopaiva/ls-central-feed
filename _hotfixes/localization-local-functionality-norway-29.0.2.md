@@ -5,7 +5,7 @@ version: "29.0.2"
 subproduct: Local Functionality Norway
 minor_version: "29.0"
 date: 2026-11-03 00:00:00+00:00
-order: 17
+order: 21
 guid: f490b3c41596cc98dd6c5b67dbd7f6e50c14b560
 ---
 
