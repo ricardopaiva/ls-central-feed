@@ -5,7 +5,7 @@ version: "29.0.3"
 subproduct: Replenishment hotfixes
 minor_version: "29.0"
 date: 2026-11-17 00:00:00+00:00
-order: 38
+order: 39
 guid: 879c8df0d3b124c40bc1d8c8a2d697207d6c8390
 ---
 
