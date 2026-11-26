@@ -5,7 +5,7 @@ version: "29.0.3"
 subproduct: Pharmacies Autotest
 minor_version: "29.0"
 date: 2026-11-24 00:00:00+00:00
-order: 35
+order: 37
 guid: 734b0db47d341892bf3c7b1cd9d142dc1f1e543b
 ---
 
