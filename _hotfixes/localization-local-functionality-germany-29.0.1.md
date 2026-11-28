@@ -5,7 +5,7 @@ version: "29.0.1"
 subproduct: Local Functionality Germany
 minor_version: "29.0"
 date: 2026-11-10 00:00:00+00:00
-order: 26
+order: 29
 guid: 6fdd47f5db0a1d584d7a3b5955c9e8ac021ac57c
 ---
 
